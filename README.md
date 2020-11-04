@@ -12,5 +12,6 @@
 | 0027 | removeElement | ✦ |  |
 | 0028 | strStr | ✦ |  |
 | 0030 | findSubstring | ✦✦✦ |  |
+| 0035 | searchInsert | ✦ |  |
 | 0118 | generate | ✦ |  |
 | 0942 | validMountainArray | ✦ |  |
