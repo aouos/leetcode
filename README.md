@@ -14,4 +14,5 @@
 | 0030 | findSubstring | ✦✦✦ |  |
 | 0035 | searchInsert | ✦ |  |
 | 0118 | generate | ✦ |  |
+| 0122 | maxProfit | ✦ |  |
 | 0942 | validMountainArray | ✦ |  |
