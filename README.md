@@ -12,6 +12,7 @@
 | 0027 | removeElement | ✦ |  |
 | 0028 | strStr | ✦ |  |
 | 0030 | findSubstring | ✦✦✦ |  |
+| 0031 | nextPermutation | ✦✦ |  |
 | 0035 | searchInsert | ✦ |  |
 | 0070 | climbStairs | ✦ |  |
 | 0118 | generate | ✦ |  |
