@@ -17,4 +17,5 @@
 | 0070 | climbStairs | ✦ |  |
 | 0118 | generate | ✦ |  |
 | 0122 | maxProfit | ✦ |  |
+| 0514 | findRotateSteps | ✦✦✦ |  |
 | 0942 | validMountainArray | ✦ |  |
