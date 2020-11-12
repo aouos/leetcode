@@ -17,6 +17,7 @@
 | 0070 | climbStairs | ✦ |  |
 | 0118 | generate | ✦ |  |
 | 0122 | maxProfit | ✦ |  |
+| 0136 | singleNumber | ✦ |  |
 | 0514 | findRotateSteps | ✦✦✦ |  |
 | 0922 | sortArrayByParityII | ✦ |  |
 | 0942 | validMountainArray | ✦ |  |
