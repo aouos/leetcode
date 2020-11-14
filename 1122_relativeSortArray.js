@@ -3,7 +3,7 @@
  * @param {number[]} arr2
  * @return {number[]}
  */
-const arr1 = [2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19], arr2 = [2, 1, 4, 9, 6];
+const arr1 = [2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19], arr2 = [2, 1, 4, 3, 6];
 var relativeSortArray = function (arr1, arr2) {
   if (arr1.length === 0) {
     return arr1;
@@ -43,13 +43,7 @@ var relativeSortArray = function (arr1, arr2) {
       }
     }
   }
-  let j = arr1.length - 1;
-  for (j; j > 0; j--) {
-    if (arr1[j] === arr2[arr2.length - 1]) {
-      break;
-    }
-  }
-  arr1 = arr1.slice(0, j + 1).concat(arrSort(j + 1));
+  arr1 = arr1.slice(0, index).concat(arrSort(index));
   return arr1;
 };
 console.log(relativeSortArray(arr1, arr2));
