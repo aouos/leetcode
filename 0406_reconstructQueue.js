@@ -4,24 +4,16 @@
  */
 const people = [[7, 0], [4, 4], [7, 1], [5, 0], [6, 1], [5, 2]];
 var reconstructQueue = function (people) {
-  function sortPeople(arr) {
-    for (let i = 0; i < arr.length; i++) {
-      for (let j = i + 1; j < arr.length; j++) {
-        if (arr[i][0] <= arr[j][0]) {
-          if (arr[i][0] === arr[j][0] && arr[i][1] < arr[j][1]) {
-            continue;
-          }
-          [arr[i], arr[j]] = [arr[j], arr[i]];
-        }
-      }
-    }
-    return arr;
+  if (people.length === 0) {
+    return [];
   }
-  let sortpeople = sortPeople(people);
-  let res = [];
-  for (let key in sortpeople) {
-    res.splice(sortpeople[key][1],0,sortpeople[key]);
-  }
-  return res;
+  let ans = [];
+  people.sort((a, b) => {
+    return a[0] !== b[0] ? b[0] - a[0] : a[1] - b[1];
+  })
+  people.forEach(item => {
+    ans.splice(item[1], 0, item);
+  })
+  return ans;
 };
 console.log(reconstructQueue(people));
