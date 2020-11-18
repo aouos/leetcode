@@ -29,4 +29,5 @@
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps.js) | ✦✦✦ | DFS, DP |  |
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII.js) | ✦ | Array, Sort |  |
 | 0942 | [validMountainArray](./code/0942_validMountainArray.js) | ✦ | Math |  |
+| 0987 | [verticalTraversal](./code/0987_verticalTraversal.js) | ✦✦ | Tree, Hash Table |  |
 | 1122 | [relativeSortArray](./code/1122_relativeSortArray.js) | ✦ | Array, Sort |  |
