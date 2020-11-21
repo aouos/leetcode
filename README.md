@@ -27,6 +27,7 @@
 | 0328 | [oddEvenList](./code/0328_oddEvenList.js) | ✦✦ | Linked List |  |
 | 0347 | [topKFrequent](./code/0347_topKFrequent.js) | ✦✦ | Hash Table, Heap |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue.js) | ✦✦ | Greedy |  |
+| 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs.js) | ✦✦ | Hash Table, Math |  |
 | 0513 | [findBottomLeftValue](./code/0513_findBottomLeftValue.js) | ✦✦ | DFS, BFS, Tree |  |
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps.js) | ✦✦✦ | DFS, DP |  |
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII.js) | ✦ | Array, Sort |  |
