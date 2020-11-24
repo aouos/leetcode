@@ -4,6 +4,7 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [twoSum](./code/0001_twoSum.js) | ✦ | Array, Hash Table |  |
 | 0002 | [addTwoNumbers](./code/0002_addTwoNumbers.js) | ✦✦ | Math. linked List |  |
+| 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring.js) | ✦✦ | Hash Table, Two Pointers, Sliding Window |  |
 | 0007 | [reverse](./code/0007_reverse.js) | ✦ | Math |  |
 | 0009 | [isPalindrome](./code/0009_isPalindrome.js) | ✦ | Math |  |
 | 0012 | [intToRoman](./code/0012_intToRoman.js) | ✦✦ | Math, String |  |
