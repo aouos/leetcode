@@ -36,3 +36,4 @@
 | 0942 | [validMountainArray](./code/0942_validMountainArray.js) | ✦ | Math |  |
 | 0987 | [verticalTraversal](./code/0987_verticalTraversal.js) | ✦✦ | Tree, Hash Table |  |
 | 1122 | [relativeSortArray](./code/1122_relativeSortArray.js) | ✦ | Array, Sort |  |
+| 1370 | [sortString](./code/1370_sortString.js) | ✦ | Sort |  |
