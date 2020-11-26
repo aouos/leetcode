@@ -17,6 +17,7 @@
 | 0031 | [nextPermutation](./code/0031_nextPermutation.js) | ✦✦ | Array |  |
 | 0035 | [searchInsert](./code/0035_searchInsert.js) | ✦ | Array, Binary Search |  |
 | 0070 | [climbStairs](./code/0070_climbStairs.js) | ✦ | DP |  |
+| 0074 | [searchMatrix](./code/0074_searchMatrix.js) | ✦✦ | Binary Search |  |
 | 0088 | [merge](./code/0088_merge.js) | ✦ | Array, Two Pointers |  |
 | 0118 | [generate](./code/0118_generate.js) | ✦ | Array |  |
 | 0121 | [maxProfit](./code/0121_maxProfit.js) | ✦ | Array, DP |  |
