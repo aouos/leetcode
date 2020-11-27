@@ -11,6 +11,7 @@
 | 0013 | [romanToInt](./code/0013_romanToInt.js) | ✦ | Math, String |  |
 | 0015 | [threeSum](./code/0015_threeSum.js) | ✦✦ | Two Pointers, Array |  |
 | 0020 | [isValid](./code/0020_isValid.js) | ✦ | Stack, String |  |
+| 0026 | [removeDuplicates](./code/0026_removeDuplicates.js) | ✦ | Two Pointers, Array |  |
 | 0027 | [removeElement](./code/0027_removeElement.js) | ✦ | Two Pointers, Array |  |
 | 0028 | [strStr](./code/0028_strStr.js) | ✦ | Two Pointers, String |  |
 | 0030 | [findSubstring](./code/0030_findSubstring.js) | ✦✦✦ | Hash Table, Two Pointers, String |  |
