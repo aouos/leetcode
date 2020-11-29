@@ -26,6 +26,7 @@
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit.js) | ✦✦ | Greedy |  |
 | 0136 | [singleNumber](./code/0136_singleNumber.js) | ✦ | Hash Table |  |
 | 0222 | [countNodes](./code/0222_countNodes.js) | ✦✦ | Tree, Binary Search |  |
+| 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow.js) | ✦✦✦ | Sliding Window |  |
 | 0297 | [serialize](./code/0297_serialize.js) | ✦✦✦ | Tree |  |
 | 0283 | [moveZeroes](./code/0283_moveZeroes.js) | ✦ | Array, Two Pointers |  |
 | 0328 | [oddEvenList](./code/0328_oddEvenList.js) | ✦✦ | Linked List |  |
