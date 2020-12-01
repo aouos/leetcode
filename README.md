@@ -16,6 +16,7 @@
 | 0028 | [strStr](./code/0028_strStr.js) | ✦ | Two Pointers, String |  |
 | 0030 | [findSubstring](./code/0030_findSubstring.js) | ✦✦✦ | Hash Table, Two Pointers, String |  |
 | 0031 | [nextPermutation](./code/0031_nextPermutation.js) | ✦✦ | Array |  |
+| 0034 | [searchRange](./code/0034_searchRange.js) | ✦✦ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert.js) | ✦ | Array, Binary Search |  |
 | 0070 | [climbStairs](./code/0070_climbStairs.js) | ✦ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix.js) | ✦✦ | Binary Search |  |
