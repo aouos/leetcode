@@ -3,9 +3,6 @@
  * @param {number} target
  * @return {number[]}
  */
-
-const nums = [2, 11, 15, 7], target = 9;
-
 var twoSum = function (nums, target) {
   // 构建一个哈希表
   const map = new Map();
@@ -21,5 +18,3 @@ var twoSum = function (nums, target) {
     map.set(nums[i], i);
   }
 };
-
-console.log(twoSum(nums, target));

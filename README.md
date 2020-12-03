@@ -2,7 +2,7 @@
 
 | ID | Name | Difficulty | Tags | Remarks |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [twoSum](./code/0001_twoSum.js) | ✦ | Array, Hash Table |  |
+| 0001 | [twoSum](./code/0001_twoSum/) | ✦ | Array, Hash Table |  |
 | 0002 | [addTwoNumbers](./code/0002_addTwoNumbers.js) | ✦✦ | Math. linked List |  |
 | 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring.js) | ✦✦ | Hash Table, Two Pointers, Sliding Window |  |
 | 0007 | [reverse](./code/0007_reverse.js) | ✦ | Math |  |
@@ -26,6 +26,7 @@
 | 0122 | [maxProfit](./code/0122_maxProfit.js) | ✦ | Greedy, Array |  |
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit.js) | ✦✦ | Greedy |  |
 | 0136 | [singleNumber](./code/0136_singleNumber.js) | ✦ | Hash Table |  |
+| 0204 | [countPrimes](./code/0204_countPrimes/) | ✦ | Hash Table |  |
 | 0222 | [countNodes](./code/0222_countNodes.js) | ✦✦ | Tree, Binary Search |  |
 | 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow.js) | ✦✦✦ | Sliding Window |  |
 | 0297 | [serialize](./code/0297_serialize.js) | ✦✦✦ | Tree |  |
