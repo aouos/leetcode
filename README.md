@@ -18,6 +18,7 @@
 | 0031 | [nextPermutation](./code/0031_nextPermutation) | ✦✦ | Array |  |
 | 0034 | [searchRange](./code/0034_searchRange) | ✦✦ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ✦ | Array, Binary Search |  |
+| 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array |  |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ✦ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ✦✦ | Binary Search |  |
 | 0078 | [subsets](./code/0078_subsets) | ✦✦ | Array, Backtracking |  |
