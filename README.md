@@ -16,6 +16,7 @@
 | 0028 | [strStr](./code/0028_strStr) | ✦ | Two Pointers, String |  |
 | 0030 | [findSubstring](./code/0030_findSubstring) | ✦✦✦ | Hash Table, Two Pointers, String |  |
 | 0031 | [nextPermutation](./code/0031_nextPermutation) | ✦✦ | Array |  |
+| 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ✦✦✦ | DP, Stack |  |
 | 0034 | [searchRange](./code/0034_searchRange) | ✦✦ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ✦ | Array, Binary Search |  |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array |  |
