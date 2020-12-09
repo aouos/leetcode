@@ -2,7 +2,7 @@
 
 | ID | Name | Difficulty | Tags | Remarks |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [twoSum](./code/0001_twoSum/) | ✦ | Array, Hash Table |  |
+| 0001 | [twoSum](./code/0001_twoSum/) | ✦ | Array, Hash Table | ✔ |
 | 0002 | [addTwoNumbers](./code/0002_addTwoNumbers) | ✦✦ | Math. linked List |  |
 | 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring) | ✦✦ | Hash Table, Two Pointers, Sliding Window |  |
 | 0007 | [reverse](./code/0007_reverse) | ✦ | Math |  |
@@ -10,7 +10,7 @@
 | 0012 | [intToRoman](./code/0012_intToRoman) | ✦✦ | Math, String |  |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ✦ | Math, String |  |
 | 0015 | [threeSum](./code/0015_threeSum) | ✦✦ | Two Pointers, Array |  |
-| 0020 | [isValid](./code/0020_isValid) | ✦ | Stack, String |  |
+| 0020 | [isValid](./code/0020_isValid) | ✦ | Stack, String | ✔ |
 | 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ✦ | Two Pointers, Array |  |
 | 0027 | [removeElement](./code/0027_removeElement) | ✦ | Two Pointers, Array |  |
 | 0028 | [strStr](./code/0028_strStr) | ✦ | Two Pointers, String |  |
@@ -19,7 +19,7 @@
 | 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ✦✦✦ | DP, Stack |  |
 | 0034 | [searchRange](./code/0034_searchRange) | ✦✦ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ✦ | Array, Binary Search |  |
-| 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array |  |
+| 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array | ✔ |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ✦ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ✦✦ | Binary Search |  |
 | 0078 | [subsets](./code/0078_subsets) | ✦✦ | Array, Backtracking |  |
@@ -29,6 +29,7 @@
 | 0122 | [maxProfit](./code/0122_maxProfit) | ✦ | Greedy, Array |  |
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit) | ✦✦ | Greedy |  |
 | 0136 | [singleNumber](./code/0136_singleNumber) | ✦ | Hash Table |  |
+| 0146 | [LRUCache](./code/0136_LRUCache) | ✦✦ | Design | ✔ |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ✦ | Hash Table |  |
 | 0206 | [reverseList](./code/0206_reverseList) | ✦ | Linked List |  |
 | 0222 | [countNodes](./code/0222_countNodes) | ✦✦ | Tree, Binary Search |  |
