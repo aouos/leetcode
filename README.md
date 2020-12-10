@@ -29,7 +29,7 @@
 | 0122 | [maxProfit](./code/0122_maxProfit) | ✦ | Greedy, Array |  |
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit) | ✦✦ | Greedy |  |
 | 0136 | [singleNumber](./code/0136_singleNumber) | ✦ | Hash Table |  |
-| 0146 | [LRUCache](./code/0136_LRUCache) | ✦✦ | Design | ✔ |
+| 0146 | [LRUCache](./code/0146_LRUCache) | ✦✦ | Design | ✔ |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ✦ | Hash Table |  |
 | 0206 | [reverseList](./code/0206_reverseList) | ✦ | Linked List |  |
 | 0222 | [countNodes](./code/0222_countNodes) | ✦✦ | Tree, Binary Search |  |
@@ -43,6 +43,7 @@
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ✦✦ | Hash Table, Math |  |
 | 0513 | [findBottomLeftValue](./code/0513_findBottomLeftValue) | ✦✦ | DFS, BFS, Tree |  |
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps) | ✦✦✦ | DFS, DP |  |
+| 0860 | [lemonadeChange](./code/0860_lemonadeChange) | ✦ | Greedy | ✔ |
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ✦ | Array, Sort |  |
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ✦ | Math |  |
 | 0987 | [verticalTraversal](./code/0987_verticalTraversal) | ✦✦ | Tree, Hash Table |  |
