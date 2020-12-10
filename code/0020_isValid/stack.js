@@ -2,18 +2,13 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function(s) {
+var isValid = function (s) {
   const len = s.length;
-  // 如果是0直接返回true
-  if (len === 0) {
-    return true;
-  }
   // 如果为奇数直接返回false
   if ((len & 1) === 1) {
     return false;
   }
   let stack = [];
-  // 定义一个map
   const map = {
     '}': '{',
     ']': '[',
@@ -29,8 +24,7 @@ var isValid = function(s) {
       stack.push(s[i]);
     } else {
       // 存在时出栈进行对比
-      const str = stack.pop();
-      if (str !== map[s[i]]) {
+      if (stack.pop() !== map[s[i]]) {
         return false;
       }
     }
