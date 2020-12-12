@@ -38,6 +38,7 @@
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ✦ | Array, Two Pointers |  |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ✦✦ | Linked List |  |
 | 0347 | [topKFrequent](./code/0347_topKFrequent) | ✦✦ | Hash Table, Heap |  |
+| 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ✦✦ | Greedy, DP |  |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ✦✦ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ✦✦ | Greedy |  |
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ✦✦ | Hash Table, Math |  |
