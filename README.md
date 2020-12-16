@@ -34,6 +34,7 @@
 | 0206 | [reverseList](./code/0206_reverseList) | ✦ | Linked List |  |
 | 0222 | [countNodes](./code/0222_countNodes) | ✦✦ | Tree, Binary Search |  |
 | 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow) | ✦✦✦ | Sliding Window |  |
+| 0290 | [wordPattern](./code/0290_wordPattern) | ✦ | Hash Table |  |
 | 0297 | [serialize](./code/0297_serialize) | ✦✦✦ | Tree |  |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ✦ | Array, Two Pointers |  |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ✦✦ | Linked List |  |
