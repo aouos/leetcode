@@ -52,4 +52,5 @@
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ✦ | Math |  |
 | 0987 | [verticalTraversal](./code/0987_verticalTraversal) | ✦✦ | Tree, Hash Table |  |
 | 1122 | [relativeSortArray](./code/1122_relativeSortArray) | ✦ | Array, Sort |  |
+| 1206 | [Skiplist](./code/1206_Skiplist) | ✦✦✦ | Skiplist |  |
 | 1370 | [sortString](./code/1370_sortString) | ✦ | Sort |  |
