@@ -40,6 +40,7 @@
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ✦✦ | Linked List |  |
 | 0347 | [topKFrequent](./code/0347_topKFrequent) | ✦✦ | Hash Table, Heap |  |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ✦✦ | Greedy, DP |  |
+| 0389 | [findTheDifference](./code/0389_findTheDifference) | ✦ | Hash Table, Bit |  |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ✦✦ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ✦✦ | Greedy |  |
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ✦✦ | Hash Table, Math |  |
@@ -47,6 +48,7 @@
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps) | ✦✦✦ | DFS, DP |  |
 | 0547 | [findCircleNum](./code/0547_findCircleNum) | ✦✦ | DFS, UN |  |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ✦✦ | Greedy |  |
+| 0814 | [pruneTree](./code/0814_pruneTree) | ✦ | Tree |  |
 | 0860 | [lemonadeChange](./code/0860_lemonadeChange) | ✦ | Greedy | ✔ |
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ✦ | Array, Sort |  |
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ✦ | Math |  |
