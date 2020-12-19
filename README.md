@@ -19,6 +19,7 @@
 | 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ✦✦✦ | DP, Stack | ✔ |
 | 0034 | [searchRange](./code/0034_searchRange) | ✦✦ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ✦ | Array, Binary Search |  |
+| 0039 | [uniquePaths](./code/0039_combinationSum) | ✦✦ | Array, Backtracking | |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array | ✔ |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ✦ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ✦✦ | Binary Search |  |
