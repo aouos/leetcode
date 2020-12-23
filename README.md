@@ -19,7 +19,7 @@
 | 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ✦✦✦ | DP, Stack | ✔ |
 | 0034 | [searchRange](./code/0034_searchRange) | ✦✦ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ✦ | Array, Binary Search |  |
-| 0039 | [uniquePaths](./code/0039_combinationSum) | ✦✦ | Array, Backtracking | |
+| 0039 | [combinationSum](./code/0039_combinationSum) | ✦✦ | Array, Backtracking | |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array | ✔ |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ✦ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ✦✦ | Binary Search |  |
@@ -41,6 +41,7 @@
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ✦✦ | Linked List |  |
 | 0347 | [topKFrequent](./code/0347_topKFrequent) | ✦✦ | Hash Table, Heap |  |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ✦✦ | Greedy, DP |  |
+| 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ✦ | Hash Table, Array |  |
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ✦ | Hash Table, Bit |  |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ✦✦ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ✦✦ | Greedy |  |
