@@ -40,6 +40,7 @@
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ✦ | Array, Two Pointers |  |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ✦✦ | Linked List |  |
 | 0347 | [topKFrequent](./code/0347_topKFrequent) | ✦✦ | Hash Table, Heap |  |
+| 0372 | [getSum](./code/0372_getSum) | ✦ | Bit |  |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ✦✦ | Greedy, DP |  |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ✦ | Hash Table, Array |  |
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ✦ | Hash Table, Bit |  |
