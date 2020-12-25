@@ -47,6 +47,7 @@
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ✦✦ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ✦✦ | Greedy |  |
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ✦✦ | Hash Table, Math |  |
+| 0455 | [findContentChildren](./code/0455_findContentChildren) | ✦ | Greedy |  |
 | 0513 | [findBottomLeftValue](./code/0513_findBottomLeftValue) | ✦✦ | DFS, BFS, Tree |  |
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps) | ✦✦✦ | DFS, DP |  |
 | 0547 | [findCircleNum](./code/0547_findCircleNum) | ✦✦ | DFS, UN |  |
