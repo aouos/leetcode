@@ -58,6 +58,7 @@
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ✦ | Array, Sort |  |
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ✦ | Math |  |
 | 0987 | [verticalTraversal](./code/0987_verticalTraversal) | ✦✦ | Tree, Hash Table |  |
+| 1046 | [lastStoneWeight](./code/1046_lastStoneWeight) | ✦ | Heap, Greedy |  |
 | 1054 | [rearrangeBarcodes](./code/1054_rearrangeBarcodes) | ✦✦ | Heap, Sort |  |
 | 1122 | [relativeSortArray](./code/1122_relativeSortArray) | ✦ | Array, Sort |  |
 | 1206 | [Skiplist](./code/1206_Skiplist) | ✦✦✦ | Skiplist |  |
