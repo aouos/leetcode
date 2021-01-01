@@ -52,6 +52,7 @@
 | 0513 | [findBottomLeftValue](./code/0513_findBottomLeftValue) | ✦✦ | DFS, BFS, Tree |  |
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps) | ✦✦✦ | DFS, DP |  |
 | 0547 | [findCircleNum](./code/0547_findCircleNum) | ✦✦ | DFS, UN |  |
+| 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ✦ | Greedy |  |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ✦✦ | Greedy |  |
 | 0814 | [pruneTree](./code/0814_pruneTree) | ✦ | Tree |  |
 | 0860 | [lemonadeChange](./code/0860_lemonadeChange) | ✦ | Greedy | ✔ |
