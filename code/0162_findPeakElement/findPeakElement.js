@@ -5,16 +5,13 @@
 var findPeakElement = function (nums) {
   let l = 0;
   let r = nums.length - 1;
-  while (l <= r) {
-    const mid = l + Math.floor((r - l) >> 1);
-    if ((nums[mid] > nums[mid + 1] && nums[mid] > nums[mid - 1]) || !nums[mid + 1] || (!nums[mid - 1] && nums[mid] > nums[mid + 1])) {
-      return mid;
-    }
-    if (nums[mid + 1] > nums[mid]) {
-      l = mid + 1;
+  while (l < r) {
+    let mid = l + Math.floor((r - l) >> 1);
+    if (nums[mid] > nums[mid + 1]) {
+      r = mid
     } else {
-      r = mid - 1;
+      l = mid + 1
     }
   }
+  return l;
 };
-console.log(findPeakElement([1, 2, 3, 4]));
