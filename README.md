@@ -24,6 +24,7 @@
 | 0070 | [climbStairs](./code/0070_climbStairs) | ✦ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ✦✦ | Binary Search |  |
 | 0078 | [subsets](./code/0078_subsets) | ✦✦ | Array, Backtracking |  |
+| 0086 | [partition](./code/0086_partition) | ✦✦ | Linked List |  |
 | 0088 | [merge](./code/0088_merge) | ✦ | Array, Two Pointers |  |
 | 0118 | [generate](./code/0118_generate) | ✦ | Array |  |
 | 0121 | [maxProfit](./code/0121_maxProfit) | ✦ | Array, DP |  |
