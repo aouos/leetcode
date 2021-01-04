@@ -1,4 +1,4 @@
-# Record my leetcode solution
+# 😜 Record my leetcode solution
 
 | ID | Name | Difficulty | Tags | Remarks |
 | :---: | :--- | :---: | :---: | :--- |
@@ -52,6 +52,7 @@
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ✦✦ | Hash Table, Math |  |
 | 0451 | [frequencySort](./code/0451_frequencySort) | ✦✦ | Hash Table |  |
 | 0455 | [findContentChildren](./code/0455_findContentChildren) | ✦ | Greedy |  |
+| 0509 | [fib](./code/0509_fib) | ✦ | Array |  |
 | 0513 | [findBottomLeftValue](./code/0513_findBottomLeftValue) | ✦✦ | DFS, BFS, Tree |  |
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps) | ✦✦✦ | DFS, DP |  |
 | 0547 | [findCircleNum](./code/0547_findCircleNum) | ✦✦ | DFS, UN |  |
