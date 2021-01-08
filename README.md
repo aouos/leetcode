@@ -33,6 +33,7 @@
 | 0136 | [singleNumber](./code/0136_singleNumber) | ✦ | Hash Table |  |
 | 0146 | [LRUCache](./code/0146_LRUCache) | ✦✦ | Design | ✔ |
 | 0162 | [findPeakElement](./code/0162_findPeakElement) | ✦✦ | Array, Binary Search |  |
+| 0189 | [rotate](./code/0189_rotate) | ✦✦ | Array |  |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ✦ | Hash Table |  |
 | 0206 | [reverseList](./code/0206_reverseList) | ✦ | Linked List |  |
 | 0222 | [countNodes](./code/0222_countNodes) | ✦✦ | Tree, Binary Search |  |
