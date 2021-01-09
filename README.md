@@ -70,3 +70,4 @@
 | 1122 | [relativeSortArray](./code/1122_relativeSortArray) | ✦ | Array, Sort |  |
 | 1206 | [Skiplist](./code/1206_Skiplist) | ✦✦✦ | Skiplist |  |
 | 1370 | [sortString](./code/1370_sortString) | ✦ | Sort |  |
+| 1710 | [maximumUnits](./code/1710_maximumUnits) | ✦ | Sort, Greedy |  |
