@@ -72,3 +72,4 @@
 | 1206 | [Skiplist](./code/1206_Skiplist) | ✦✦✦ | Skiplist |  |
 | 1370 | [sortString](./code/1370_sortString) | ✦ | Sort |  |
 | 1710 | [maximumUnits](./code/1710_maximumUnits) | ✦ | Sort, Greedy |  |
+| 9001 | [isUnique](./code/9001_isUnique) | ✦ | Array |  |
