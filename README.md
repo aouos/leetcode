@@ -71,6 +71,7 @@
 | 1054 | [rearrangeBarcodes](./code/1054_rearrangeBarcodes) | ✦✦ | Heap, Sort |  |
 | 1122 | [relativeSortArray](./code/1122_relativeSortArray) | ✦ | Array, Sort |  |
 | 1206 | [Skiplist](./code/1206_Skiplist) | ✦✦✦ | Skiplist |  |
+| 1232 | [checkStraightLine](./code/1232_checkStraightLine) | ✦ | Array |  |
 | 1370 | [sortString](./code/1370_sortString) | ✦ | Sort |  |
 | 1710 | [maximumUnits](./code/1710_maximumUnits) | ✦ | Sort, Greedy |  |
 | 9001 | [isUnique](./code/9001_isUnique) | ✦ | Array |  |
