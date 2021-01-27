@@ -4,17 +4,19 @@
  * @return {number[]}
  */
 var twoSum = function (nums, target) {
-  // 构建一个哈希表
+  // 构建hashTable
   const map = new Map();
-  // 遍历数组nums
   for (let i = 0; i < nums.length; i++) {
-    // 得到当前值与target的差，在map中进行查找
     let diff = target - nums[i];
+    // 判断map是否存在差值
     if (map.has(diff)) {
-      // 找到值后返回坐标
       return [map.get(diff), i];
     }
-    // 将当前值的值与对应索引存入map
+    // 不存在时存入当前元素和索引
     map.set(nums[i], i);
   }
+  return [];
 };
+
+// 时间复杂度 O(N)
+// 空间复杂度 O(1)

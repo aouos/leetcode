@@ -1,8 +1,8 @@
-# 😜 Record my leetcode solution
+# 😜 Record my leetcode problem solution
 
 | ID | Name | Difficulty | Tags | Remarks |
-| :---: | :--- | :---: | :---: | :--- |
-| 0001 | [twoSum](./code/0001_twoSum/) | ✦ | Array, Hash Table | ✔ |
+| :---: | :--- | :---: | :--- | :--- |
+| 0001 | [twoSum](./code/0001_twoSum/) | ✦ | Array, Hash Table |  |
 | 0002 | [addTwoNumbers](./code/0002_addTwoNumbers) | ✦✦ | Math. linked List |  |
 | 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring) | ✦✦ | Hash Table, Two Pointers, Sliding Window |  |
 | 0007 | [reverse](./code/0007_reverse) | ✦ | Math |  |
