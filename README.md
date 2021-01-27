@@ -1,9 +1,9 @@
 # 😜 Record my leetcode problem solution
 
 | ID | Name | Difficulty | Tags | Remarks |
-| :---: | :--- | :---: | :--- | :--- |
+| :---: | :--- | :---: | :---: | :--- |
 | 0001 | [twoSum](./code/0001_twoSum/) | ✦ | Array, Hash Table |  |
-| 0002 | [addTwoNumbers](./code/0002_addTwoNumbers) | ✦✦ | Math. linked List |  |
+| 0002 | [addTwoNumbers](./code/0002_addTwoNumbers) | ✦✦ | Math, linked List |  |
 | 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring) | ✦✦ | Hash Table, Two Pointers, Sliding Window |  |
 | 0007 | [reverse](./code/0007_reverse) | ✦ | Math |  |
 | 0009 | [isPalindrome](./code/0009_isPalindrome) | ✦ | Math |  |
@@ -20,9 +20,11 @@
 | 0034 | [searchRange](./code/0034_searchRange) | ✦✦ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ✦ | Array, Binary Search |  |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ✦✦ | Array, Backtracking | |
-| 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array | ✔ |
+| 0062 | [uniquePaths](./code/0062_uniquePaths) | ✦✦ | DP, Array |  |
+| 0066 | [plusOne](./code/0066_plusOne) | ✦ | Array |  |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ✦ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ✦✦ | Binary Search |  |
+| 0075 | [sortColors](./code/0075_sortColors) | ✦✦ | Two Pointers, Array |  |
 | 0078 | [subsets](./code/0078_subsets) | ✦✦ | Array, Backtracking |  |
 | 0086 | [partition](./code/0086_partition) | ✦✦ | Linked List |  |
 | 0088 | [merge](./code/0088_merge) | ✦ | Array, Two Pointers |  |
