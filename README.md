@@ -1,9 +1,9 @@
 # 😜 Record my leetcode problem solution
 
-## 🍩 Remarks: The number of solutions, with diagrams, complete
+## Remarks: number of solutions, completion, diagrams
 
 | ID | Name | Difficulty | Tags | Remarks |
-| :---: | :--- | :---: | :---: | :--- |
+| :---: | :--- | :---: | :---: | :---: |
 | 0001 | [twoSum](./code/0001_twoSum/) | ⭐ | Array, Hash Table | 2️⃣✅ |
 | 0002 | [addTwoNumbers](./code/0002_addTwoNumbers) | ⭐⭐ | Math, linked List |  |
 | 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring) | ⭐⭐ | Hash Table, Two Pointers, Sliding Window |  |
@@ -65,7 +65,7 @@
 | 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ⭐ | Greedy |  |
 | 0628 | [maximumProduct](./code/0628_maximumProduct) | ⭐ | Array |  |
 | 0674 | [findLengthOfLCIS](./code/0674_findLengthOfLCIS) | ⭐ | Array |  |
-| 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array | 1️⃣📊✅ |
+| 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array | 1️⃣✅📊 |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |  |
 | 0814 | [pruneTree](./code/0814_pruneTree) | ⭐ | Tree |  |
 | 0830 | [largeGroupPositions](./code/0830_largeGroupPositions) | ⭐ | Array |  |
