@@ -73,7 +73,7 @@
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ⭐ | Array, Sort |  |
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ⭐ | Math |  |
 | 0987 | [verticalTraversal](./code/0987_verticalTraversal) | ⭐⭐ | Tree, Hash Table |  |
-| 0989 | [addToArrayForm](./code/0989_addToArrayForm) | ⭐ | Array |  |
+| 0989 | [addToArrayForm](./code/0989_addToArrayForm) | ⭐ | Array | 2️⃣✅ |
 | 1018 | [prefixesDivBy5](./code/1018_prefixesDivBy5) | ⭐ | Array |  |
 | 1046 | [lastStoneWeight](./code/1046_lastStoneWeight) | ⭐ | Heap, Greedy |  |
 | 1054 | [rearrangeBarcodes](./code/1054_rearrangeBarcodes) | ⭐⭐ | Heap, Sort |  |

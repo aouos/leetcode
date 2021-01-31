@@ -4,14 +4,17 @@
  * @return {number[]}
  */
 var addToArrayForm = function (A, K) {
-  const ans = [];
+  let ans = [];
+  // 当i大于等于0或者K大于0执行
   for (let i = A.length - 1; i >= 0 || K > 0; i--) {
+    // 如果i大于等于0,将A[i]的值加到K上
     if (i >= 0) {
-      K = A[i] + K;
+      K += A[i];
     }
+    // ans推入K对10取模的值
     ans.push(K % 10);
+    // K每加一次后除以10
     K = Math.floor(K / 10);
   }
   return ans.reverse();
 };
-console.log(addToArrayForm([9, 9, 9, 9], 1));
