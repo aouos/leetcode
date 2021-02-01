@@ -23,3 +23,6 @@ var addToArrayForm = function (A, K) {
   }
   return ans.reverse();
 };
+
+// 时间复杂度 O(max(n,logK))
+// 空间复杂度 O(max(n,logK))
