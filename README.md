@@ -55,6 +55,7 @@
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ⭐ | Hash Table, Bit |  |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |  |
+| 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window | 1️⃣✅ |
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ⭐⭐ | Hash Table, Math |  |
 | 0451 | [frequencySort](./code/0451_frequencySort) | ⭐⭐ | Hash Table |  |
 | 0455 | [findContentChildren](./code/0455_findContentChildren) | ⭐ | Greedy |  |
@@ -84,5 +85,6 @@
 | 1206 | [Skiplist](./code/1206_Skiplist) | ⭐⭐⭐ | Skiplist |  |
 | 1232 | [checkStraightLine](./code/1232_checkStraightLine) | ⭐ | Array |  |
 | 1370 | [sortString](./code/1370_sortString) | ⭐ | Sort |  |
+| 1381 | [CustomStack](./code/1381_CustomStack) | ⭐⭐ | Stack, Design | 1️⃣✅ |
 | 1710 | [maximumUnits](./code/1710_maximumUnits) | ⭐ | Sort, Greedy |  |
 | 9001 | [isUnique](./code/9001_isUnique) | ⭐ | Array |  |
