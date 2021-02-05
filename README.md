@@ -41,6 +41,7 @@
 | 0204 | [countPrimes](./code/0204_countPrimes) | ⭐ | Hash Table |  |
 | 0206 | [reverseList](./code/0206_reverseList) | ⭐ | Linked List |  |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |  |
+| 0232 | [MyQueue](./code/0232_MyQueue) | ⭐ | Stack |  |
 | 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow) | ⭐⭐⭐ | Sliding Window |  |
 | 0268 | [missingNumber](./code/0268_missingNumber) | ⭐ | Bit, Array |  |
 | 0278 | [isBadVersion](./code/0278_isBadVersion) | ⭐ | Binary Search |  |
