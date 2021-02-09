@@ -69,6 +69,7 @@
 | 0674 | [findLengthOfLCIS](./code/0674_findLengthOfLCIS) | ⭐ | Array |  |
 | 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array | 1️⃣✅📊 |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |  |
+| 0768 | [maxChunksToSorted](./code/0768_maxChunksToSorted) | ⭐⭐⭐ | Array, Stack | 2️⃣✅ |
 | 0814 | [pruneTree](./code/0814_pruneTree) | ⭐ | Tree |  |
 | 0821 | [shortestToChar](./code/0821_shortestToChar) | ⭐ | Greedy |  |
 | 0830 | [largeGroupPositions](./code/0830_largeGroupPositions) | ⭐ | Array |  |
