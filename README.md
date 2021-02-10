@@ -13,6 +13,7 @@
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |  |
 | 0015 | [threeSum](./code/0015_threeSum) | ⭐⭐ | Two Pointers, Array |  |
 | 0020 | [isValid](./code/0020_isValid) | ⭐ | Stack, String |  |
+| 0024 | [swapPairs](./code/0024_swapPairs) | ⭐⭐ | Linked List, Recursion | 1️⃣✅ |
 | 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ⭐ | Two Pointers, Array |  |
 | 0027 | [removeElement](./code/0027_removeElement) | ⭐ | Two Pointers, Array |  |
 | 0028 | [strStr](./code/0028_strStr) | ⭐ | Two Pointers, String |  |
@@ -22,6 +23,7 @@
 | 0034 | [searchRange](./code/0034_searchRange) | ⭐⭐ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search |  |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking | |
+| 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List | 1️⃣✅ |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array |  |
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array | 2️⃣✅ |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ⭐ | DP |  |
