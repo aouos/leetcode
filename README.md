@@ -53,7 +53,7 @@
 | 0297 | [serialize](./code/0297_serialize) | ⭐⭐⭐ | Tree |  |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |  |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |  |
-| 0347 | [topKFrequent](./code/0347_topKFrequent) | ⭐⭐ | Hash Table, Heap |  |
+| 0347 | [topKFrequent](./code/0347_topKFrequent) | ⭐⭐ | Hash Table, Heap | 1️⃣✅ |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |  |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |  |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |  |
@@ -61,7 +61,7 @@
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |  |
 | 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window | 1️⃣✅ |
-| 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ⭐⭐ | Hash Table, Math |  |
+| 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ⭐⭐ | Hash Table, Math | 1️⃣✅ |
 | 0451 | [frequencySort](./code/0451_frequencySort) | ⭐⭐ | Hash Table |  |
 | 0455 | [findContentChildren](./code/0455_findContentChildren) | ⭐ | Greedy |  |
 | 0509 | [fib](./code/0509_fib) | ⭐ | Array |  |

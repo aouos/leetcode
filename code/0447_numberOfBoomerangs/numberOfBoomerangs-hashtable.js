@@ -23,3 +23,6 @@ var numberOfBoomerangs = function (points) {
   }
   return ans;
 };
+
+// 时间复杂度 O(N²)
+// 空间复杂度 O(N²)
