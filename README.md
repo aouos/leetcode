@@ -92,5 +92,6 @@
 | 1232 | [checkStraightLine](./code/1232_checkStraightLine) | ⭐ | Array |  |
 | 1370 | [sortString](./code/1370_sortString) | ⭐ | Sort |  |
 | 1381 | [CustomStack](./code/1381_CustomStack) | ⭐⭐ | Stack, Design | 1️⃣✅ |
+| 1438 | [longestSubarray](./code/1438_longestSubarray) | ⭐⭐ | Sliding Window, Array | 1️⃣ |
 | 1710 | [maximumUnits](./code/1710_maximumUnits) | ⭐ | Sort, Greedy |  |
 | 9001 | [isUnique](./code/9001_isUnique) | ⭐ | Array |  |
