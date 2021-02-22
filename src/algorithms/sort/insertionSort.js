@@ -2,12 +2,13 @@
  * @Author: aouos 
  * @Date: 2021-02-21 21:47:27 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-02-21 21:54:34
+ * @Last Modified time: 2021-02-22 17:18:13
  */
 
 // Sorted Array in Descending Order
 function insertionSort(arr) {
   let len = arr.length;
+
   for (let i = 1; i < len; i++) {
     const temp = arr[i];
     let j = i;
@@ -16,6 +17,7 @@ function insertionSort(arr) {
     }
     arr[j] = temp;
   }
+
   return arr;
 }
 

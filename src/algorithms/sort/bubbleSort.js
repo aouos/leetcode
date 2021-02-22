@@ -2,12 +2,13 @@
  * @Author: aouos 
  * @Date: 2021-02-21 21:05:21 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-02-21 21:52:38
+ * @Last Modified time: 2021-02-22 17:17:10
  */
 
 // Sorted Array in Ascending Order
 function bubbleSort(arr) {
   let len = arr.length;
+  
   while (--len) {
     for (let p = 0; p < len; p++) {
       if (arr[p] > arr[p + 1]) {
@@ -15,6 +16,7 @@ function bubbleSort(arr) {
       }
     }
   }
+
   return arr;
 }
 
