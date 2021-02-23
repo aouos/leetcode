@@ -86,6 +86,7 @@
 | 0989 | [addToArrayForm](./code/0989_addToArrayForm) | ⭐ | Array | 2️⃣✅ |
 | 1018 | [prefixesDivBy5](./code/1018_prefixesDivBy5) | ⭐ | Array |  |
 | 1046 | [lastStoneWeight](./code/1046_lastStoneWeight) | ⭐ | Heap, Greedy |  |
+| 1052 | [maxSatisfied](./code/1052_maxSatisfied) | ⭐⭐ | Sliding Window, Array | 1️⃣✅ |
 | 1054 | [rearrangeBarcodes](./code/1054_rearrangeBarcodes) | ⭐⭐ | Heap, Sort |  |
 | 1122 | [relativeSortArray](./code/1122_relativeSortArray) | ⭐ | Array, Sort |  |
 | 1128 | [numEquivDominoPairs](./code/1128_numEquivDominoPairs) | ⭐ | Array |  |
