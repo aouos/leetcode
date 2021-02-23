@@ -2,10 +2,11 @@
  * @Author: aouos 
  * @Date: 2021-02-22 16:32:36 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-02-22 17:16:42
+ * @Last Modified time: 2021-02-23 11:55:51
  */
 
 // Sorted Array in Ascending Order
+
 function merge(left, right) {
   const res = [];
 
@@ -28,7 +29,8 @@ function mergeSort(arr) {
   return merge(mergeSort(left), mergeSort(right));
 }
 
-// test
+
+// ********** test ********** //
 console.log(mergeSort([5, 4, 6, 3, 35, 17, 1]));
 // [ 1,  3,  4, 5, 6, 17, 35 ]
 

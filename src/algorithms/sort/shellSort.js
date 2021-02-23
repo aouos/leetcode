@@ -2,10 +2,11 @@
  * @Author: aouos 
  * @Date: 2021-02-22 14:03:20 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-02-22 17:20:35
+ * @Last Modified time: 2021-02-23 11:56:17
  */
 
 // Sorted Array in Ascending Order
+
 function shellSort(arr) {
   let len = arr.length;
 
@@ -16,11 +17,12 @@ function shellSort(arr) {
       }
     }
   }
-  
+
   return arr;
 }
 
-// test
+
+// ********** test ********** //
 console.log(shellSort([5, 4, 6, 3, 35, 17, 1]));
 // [ 1,  3,  4, 5, 6, 17, 35 ]
 

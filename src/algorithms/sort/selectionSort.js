@@ -2,10 +2,11 @@
  * @Author: aouos 
  * @Date: 2021-02-22 11:53:38 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-02-22 17:20:22
+ * @Last Modified time: 2021-02-23 11:56:10
  */
 
 // Sorted Array in Ascending Order
+
 function selectionSort(arr) {
   let len = arr.length;
 
@@ -24,7 +25,8 @@ function selectionSort(arr) {
   return arr;
 }
 
-// test
+
+// ********** test ********** //
 console.log(selectionSort([3, - 6, 1, -2, 9, 7]));
 // [ -6, -2, 1, 3, 7, 9 ]
 

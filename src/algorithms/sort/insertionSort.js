@@ -2,10 +2,11 @@
  * @Author: aouos 
  * @Date: 2021-02-21 21:47:27 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-02-22 17:18:13
+ * @Last Modified time: 2021-02-23 11:55:32
  */
 
 // Sorted Array in Descending Order
+
 function insertionSort(arr) {
   let len = arr.length;
 
@@ -21,7 +22,8 @@ function insertionSort(arr) {
   return arr;
 }
 
-// test
+
+// ********** test ********** //
 console.log(insertionSort([3, 6, 1, 8, 9, 5]));
 // [ 9, 8, 6, 5, 3, 1 ]
 
