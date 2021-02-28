@@ -81,6 +81,7 @@
 | 0832 | [flipAndInvertImage](./code/0832_flipAndInvertImage) | ⭐ | Array |  |
 | 0860 | [lemonadeChange](./code/0860_lemonadeChange) | ⭐ | Greedy |  |
 | 0888 | [fairCandySwap](./code/0888_fairCandySwap) | ⭐ | Array | 1️⃣✅ |
+| 0898 | [isMonotonic](./code/0898_isMonotonic) | ⭐ | Array | 1️⃣✅ |
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ⭐ | Array, Sort |  |
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ⭐ | Math |  |
 | 0987 | [verticalTraversal](./code/0987_verticalTraversal) | ⭐⭐ | Tree, Hash Table |  |
