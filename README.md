@@ -14,7 +14,7 @@
 | 0015 | [threeSum](./code/0015_threeSum) | ⭐⭐ | Two Pointers, Array |  |
 | 0020 | [isValid](./code/0020_isValid) | ⭐ | Stack, String |  |
 | 0024 | [swapPairs](./code/0024_swapPairs) | ⭐⭐ | Linked List, Recursion | 1️⃣✅ |
-| 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ⭐ | Two Pointers, Array |  |
+| 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ⭐ | Two Pointers, Array | 1️⃣✅ |
 | 0027 | [removeElement](./code/0027_removeElement) | ⭐ | Two Pointers, Array |  |
 | 0028 | [strStr](./code/0028_strStr) | ⭐ | Two Pointers, String |  |
 | 0030 | [findSubstring](./code/0030_findSubstring) | ⭐⭐⭐ | Hash Table, Two Pointers, String |  |
