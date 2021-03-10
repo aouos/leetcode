@@ -26,6 +26,7 @@
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List | 1️⃣✅ |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array |  |
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array | 2️⃣✅ |
+| 0069 | [mySqrt](./code/0069_mySqrt) | ⭐ | Binary Search |  |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ⭐ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ⭐⭐ | Binary Search |  |
 | 0075 | [sortColors](./code/0075_sortColors) | ⭐⭐ | Two Pointers, Array | 2️⃣✅ |
