@@ -20,6 +20,7 @@
 | 0030 | [findSubstring](./code/0030_findSubstring) | ⭐⭐⭐ | Hash Table, Two Pointers, String |  |
 | 0031 | [nextPermutation](./code/0031_nextPermutation) | ⭐⭐ | Array |  |
 | 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ⭐⭐⭐ | DP, Stack |  |
+| 0033 | [search](./code/0033_search) | ⭐⭐ | Array, Binary Search | 1️⃣ |
 | 0034 | [searchRange](./code/0034_searchRange) | ⭐⭐ | Array, Binary Search |  |
 | 0035 | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search |  |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking | |
@@ -56,6 +57,7 @@
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |  |
 | 0347 | [topKFrequent](./code/0347_topKFrequent) | ⭐⭐ | Hash Table, Heap | 1️⃣✅ |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |  |
+| 0374 | [getSum](./code/0374_guessNumber) | ⭐ | Binary Search | 1️⃣✅ |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |  |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |  |
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ⭐ | Hash Table, Bit |  |
@@ -72,6 +74,7 @@
 | 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ⭐ | Greedy |  |
 | 0628 | [maximumProduct](./code/0628_maximumProduct) | ⭐ | Array |  |
 | 0674 | [findLengthOfLCIS](./code/0674_findLengthOfLCIS) | ⭐ | Array |  |
+| 0704 | [search](./code/0704_search) | ⭐ | Binary Search | 1️⃣✅ |
 | 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array | 1️⃣✅📊 |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |  |
 | 0766 | [isToeplitzMatrix](./code/0766_isToeplitzMatrix) | ⭐ | Array | 1️⃣✅ |
