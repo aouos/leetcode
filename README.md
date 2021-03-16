@@ -31,6 +31,7 @@
 | 0070 | [climbStairs](./code/0070_climbStairs) | ⭐ | DP |  |
 | 0074 | [searchMatrix](./code/0074_searchMatrix) | ⭐⭐ | Binary Search |  |
 | 0075 | [sortColors](./code/0075_sortColors) | ⭐⭐ | Two Pointers, Array | 2️⃣✅ |
+| 0076 | [minWindow](./code/0076_minWindow) | ⭐⭐⭐ | Sliding Window | 1️⃣ |
 | 0078 | [subsets](./code/0078_subsets) | ⭐⭐ | Array, Backtracking |  |
 | 0086 | [partition](./code/0086_partition) | ⭐⭐ | Linked List |  |
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |  |
