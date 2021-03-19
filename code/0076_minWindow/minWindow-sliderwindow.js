@@ -41,5 +41,3 @@ var minWindow = function (s, t) {
   }
   return s.substring(start, start + minLen);
 };
-
-console.log(minWindow("a", "a"));

@@ -71,6 +71,7 @@
 | 0509 | [fib](./code/0509_fib) | ⭐ | Array |  |
 | 0513 | [findBottomLeftValue](./code/0513_findBottomLeftValue) | ⭐⭐ | DFS, BFS, Tree |  |
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps) | ⭐⭐⭐ | DFS, DP |  |
+| 0518 | [change](./code/0518_change) | ⭐⭐ | DP | 1️⃣ |
 | 0547 | [findCircleNum](./code/0547_findCircleNum) | ⭐⭐ | DFS, UN |  |
 | 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ⭐ | Greedy |  |
 | 0628 | [maximumProduct](./code/0628_maximumProduct) | ⭐ | Array |  |
