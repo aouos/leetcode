@@ -82,6 +82,7 @@
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |  |
 | 0766 | [isToeplitzMatrix](./code/0766_isToeplitzMatrix) | ⭐ | Array | 1️⃣✅ |
 | 0768 | [maxChunksToSorted](./code/0768_maxChunksToSorted) | ⭐⭐⭐ | Array, Stack | 2️⃣✅ |
+| 0781 | [numRabbits](./code/0781_numRabbits) | ⭐⭐ | Hash Table | 1️⃣✅ |
 | 0814 | [pruneTree](./code/0814_pruneTree) | ⭐ | Tree |  |
 | 0821 | [shortestToChar](./code/0821_shortestToChar) | ⭐ | Greedy |  |
 | 0830 | [largeGroupPositions](./code/0830_largeGroupPositions) | ⭐ | Array |  |
