@@ -63,6 +63,7 @@
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |  |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |  |
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ⭐ | Hash Table, Bit |  |
+| [0394](https://leetcode-cn.com/problems/decode-string/) | [decodeString](./code/0394_decodeString) | ⭐⭐ | Stack, DFS | 1️⃣✅📊 |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |  |
 | 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window | 1️⃣✅ |
@@ -78,7 +79,7 @@
 | 0628 | [maximumProduct](./code/0628_maximumProduct) | ⭐ | Array |  |
 | 0674 | [findLengthOfLCIS](./code/0674_findLengthOfLCIS) | ⭐ | Array |  |
 | 0704 | [search](./code/0704_search) | ⭐ | Binary Search | 1️⃣✅ |
-| 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array | 1️⃣✅📊 |
+| 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array | 1️⃣✅ |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |  |
 | 0766 | [isToeplitzMatrix](./code/0766_isToeplitzMatrix) | ⭐ | Array | 1️⃣✅ |
 | 0768 | [maxChunksToSorted](./code/0768_maxChunksToSorted) | ⭐⭐⭐ | Array, Stack | 2️⃣✅ |
