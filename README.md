@@ -35,6 +35,7 @@
 | 0078 | [subsets](./code/0078_subsets) | ⭐⭐ | Array, Backtracking |  |
 | 0086 | [partition](./code/0086_partition) | ⭐⭐ | Linked List |  |
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |  |
+| 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion | 1️⃣✅ |
 | 0118 | [generate](./code/0118_generate) | ⭐ | Array |  |
 | 0121 | [maxProfit](./code/0121_maxProfit) | ⭐ | Array, DP |  |
 | 0122 | [maxProfit](./code/0122_maxProfit) | ⭐ | Greedy, Array |  |
