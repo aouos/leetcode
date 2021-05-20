@@ -41,7 +41,7 @@
 | 0122 | [maxProfit](./code/0122_maxProfit) | ⭐ | Greedy, Array |  |
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit) | ⭐⭐ | Greedy |  |
 | 0136 | [singleNumber](./code/0136_singleNumber) | ⭐ | Hash Table |  |
-| 0142 | [detectCycle](./code/0142_detectCycle) | ⭐⭐ | Linked List, Two Pointers |  |
+| [0142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [detectCycle](./code/0142_detectCycle) | ⭐⭐ | Linked List, Two Pointers | 2️⃣✅ |
 | 0146 | [LRUCache](./code/0146_LRUCache) | ⭐⭐ | Design |  |
 | 0160 | [getIntersectionNode](./code/0160_getIntersectionNode) | ⭐ | Linked List | 1️⃣✅ |
 | 0162 | [findPeakElement](./code/0162_findPeakElement) | ⭐⭐ | Array, Binary Search |  |
@@ -64,7 +64,7 @@
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |  |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |  |
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ⭐ | Hash Table, Bit |  |
-| [0394](https://leetcode-cn.com/problems/decode-string/) | [decodeString](./code/0394_decodeString) | ⭐⭐ | Stack, DFS | 1️⃣✅📊 |
+| [0394](https://leetcode-cn.com/problems/decode-string/) | [decodeString](./code/0394_decodeString) | ⭐⭐ | Stack, DFS | 1️⃣✅ |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |  |
 | 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window | 1️⃣✅ |
