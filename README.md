@@ -36,6 +36,7 @@
 | 0086 | [partition](./code/0086_partition) | ⭐⭐ | Linked List |  |
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |  |
 | [0104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [maxDepth](./code/0104_maxDepth) | ⭐ | DFS, Recursion | 1️⃣✅ |
+| [0100](https://leetcode-cn.com/problems/same-tree/) | [isSameTree](./code/0100_isSameTree) | ⭐ | DFS, Tree | 1️⃣✅ |
 | 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion | 1️⃣✅ |
 | 0118 | [generate](./code/0118_generate) | ⭐ | Array |  |
 | 0121 | [maxProfit](./code/0121_maxProfit) | ⭐ | Array, DP |  |
