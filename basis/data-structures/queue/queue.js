@@ -1,8 +1,8 @@
 /*
- * @Author: GJQ 
+ * @Author: aouos 
  * @Date: 2021-01-28 17:13:43 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-01-31 14:27:56
+ * @Last Modified time: 2021-05-25 10:48:03
  */
 
 // class declaration
@@ -42,15 +42,3 @@ class Queue {
     return this.queue.length;
   }
 }
-
-// test
-const queue = new Queue();
-console.log(queue.front());
-console.log(queue.isEmpty());
-console.log(queue.size());
-queue.enqueue(3);
-queue.enqueue(8);
-queue.enqueue(5);
-console.log(queue.front());
-console.log(queue.dequeue());
-console.log(queue.size());

@@ -1,8 +1,8 @@
 /*
- * @Author: GJQ 
+ * @Author: aouos 
  * @Date: 2021-01-28 17:13:43 
  * @Last Modified by: aouos
- * @Last Modified time: 2021-01-31 14:29:44
+ * @Last Modified time: 2021-05-25 10:48:22
  */
 
 // class declaration
@@ -53,15 +53,3 @@ class Stack {
     }
   }
 }
-
-// test
-const stack = new Stack();
-console.log(stack.peek());
-console.log(stack.isEmpty());
-console.log(stack.size());
-stack.push(3);
-stack.push(8);
-stack.push(5);
-console.log(stack.peek());
-console.log(stack.pop());
-console.log(stack.size());

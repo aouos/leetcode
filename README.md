@@ -1,7 +1,5 @@
 # 😜 Record my leetcode problem solution
 
-## Remarks: number of solutions, completion, diagrams
-
 | ID | Name | Difficulty | Tags | Remarks |
 | :---: | :--- | :---: | :---: | :---: |
 | 0001 | [twoSum](./code/0001_twoSum/) | ⭐ | Array, Hash Table | 2️⃣✅ |
