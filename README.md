@@ -58,7 +58,7 @@
 | 0268 | [missingNumber](./code/0268_missingNumber) | ⭐ | Bit, Array |  |
 | 0278 | [isBadVersion](./code/0278_isBadVersion) | ⭐ | Binary Search |  |
 | 0290 | [wordPattern](./code/0290_wordPattern) | ⭐ | Hash Table |  |
-| 0297 | [serialize](./code/0297_serialize) | ⭐⭐⭐ | Tree |  |
+| [0297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [serialize_seserialize](./code/0297_serialize_seserialize) | ⭐⭐⭐ | Tree |  |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |  |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |  |
 | 0347 | [topKFrequent](./code/0347_topKFrequent) | ⭐⭐ | Hash Table, Heap | 1️⃣ |
@@ -98,7 +98,7 @@
 | 0898 | [isMonotonic](./code/0898_isMonotonic) | ⭐ | Array | 1️⃣ |
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ⭐ | Array, Sort |  |
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ⭐ | Math |  |
-| 0987 | [verticalTraversal](./code/0987_verticalTraversal) | ⭐⭐ | Tree, Hash Table |  |
+| [0987](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/) | [verticalTraversal](./code/0987_verticalTraversal) | ⭐⭐⭐ | Tree, Hash Table |  |
 | 0989 | [addToArrayForm](./code/0989_addToArrayForm) | ⭐ | Array | 2️⃣ |
 | 1018 | [prefixesDivBy5](./code/1018_prefixesDivBy5) | ⭐ | Array |  |
 | 1046 | [lastStoneWeight](./code/1046_lastStoneWeight) | ⭐ | Heap, Greedy |  |
