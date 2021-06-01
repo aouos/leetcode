@@ -4,25 +4,31 @@
  */
 var numberOfBoomerangs = function (points) {
   let ans = 0;
+
   for (let i = 0; i < points.length; i++) {
-    // 创建map记录每个点到自己的距离
-    let map = new Map();
+    const map = new Map();
+
     for (let j = 0; j < points.length; j++) {
-      if (i !== j) {
-        // 求出距离
-        let len = Math.pow(points[i][0] - points[j][0], 2) + Math.pow(points[i][1] - points[j][1], 2);
-        // 判断当前是否有值
-        if (!map.has(len)) {
-          map.set(len, 1);
-        } else {
-          ans += map.get(len) * 2;
-          map.set(len, map.get(len) + 1);
-        }
+      if (i === j) continue;
+      const dist = getDistance(points[i], points[j]);
+      if (!map.has(dist)) {
+        map.set(dist, 1);
+      } else {
+        ans += map.get(dist) * 2;
+        map.set(dist, map.get(dist) + 1);
       }
     }
   }
+
   return ans;
 };
+
+function getDistance(pre, next) {
+  const x = next[0] - pre[0];
+  const y = next[1] - pre[1];
+
+  return x * x + y * y;
+}
 
 // 时间复杂度 O(N²)
 // 空间复杂度 O(N²)
