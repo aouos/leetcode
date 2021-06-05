@@ -23,7 +23,7 @@
 | 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ⭐⭐⭐ | DP, Stack |  |
 | 0033 | [search](./code/0033_search) | ⭐⭐ | Array, Binary Search | 1️⃣ |
 | 0034 | [searchRange](./code/0034_searchRange) | ⭐⭐ | Array, Binary Search |  |
-| 0035 | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search |  |
+| [0035](https://leetcode-cn.com/problems/search-insert-position/) | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search |  |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking | |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List | 1️⃣ |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array |  |
