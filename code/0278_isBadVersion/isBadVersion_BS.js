@@ -12,12 +12,13 @@
  * @param {function} isBadVersion()
  * @return {function}
  */
-var solution = function(isBadVersion) {
+
+var solution = function (isBadVersion) {
   /**
    * @param {integer} n Total versions
    * @return {integer} The first bad version
    */
-  return function(n) {
+  return function (n) {
     let l = 0;
     let r = n;
     while (l < r) {
@@ -31,3 +32,6 @@ var solution = function(isBadVersion) {
     return l;
   };
 };
+
+// 时间复杂度 O(logN)
+// 空间复杂度 O(1)

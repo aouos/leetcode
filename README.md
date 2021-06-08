@@ -23,7 +23,7 @@
 | 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ⭐⭐⭐ | DP, Stack |  |
 | 0033 | [search](./code/0033_search) | ⭐⭐ | Array, Binary Search | 1️⃣ |
 | 0034 | [searchRange](./code/0034_searchRange) | ⭐⭐ | Array, Binary Search |  |
-| [0035](https://leetcode-cn.com/problems/search-insert-position/) | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search |  |
+| [0035](https://leetcode-cn.com/problems/search-insert-position/) | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search | 2️⃣ |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking | |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List | 1️⃣ |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array |  |
@@ -56,7 +56,7 @@
 | 0232 | [MyQueue](./code/0232_MyQueue) | ⭐ | Stack |  |
 | 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow) | ⭐⭐⭐ | Sliding Window |  |
 | 0268 | [missingNumber](./code/0268_missingNumber) | ⭐ | Bit, Array |  |
-| 0278 | [isBadVersion](./code/0278_isBadVersion) | ⭐ | Binary Search |  |
+| [0278](https://leetcode-cn.com/problems/first-bad-version/) | [isBadVersion](./code/0278_isBadVersion) | ⭐ | Binary Search | 1️⃣ |
 | 0290 | [wordPattern](./code/0290_wordPattern) | ⭐ | Hash Table |  |
 | [0297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [serialize_seserialize](./code/0297_serialize_seserialize) | ⭐⭐⭐ | Tree |  |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |  |
