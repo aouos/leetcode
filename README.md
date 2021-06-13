@@ -112,5 +112,6 @@
 | 1370 | [sortString](./code/1370_sortString) | ⭐ | Sort |  |
 | 1381 | [CustomStack](./code/1381_CustomStack) | ⭐⭐ | Stack, Design | 1️⃣ |
 | 1438 | [longestSubarray](./code/1438_longestSubarray) | ⭐⭐ | Sliding Window, Array | 1️⃣ |
+| [1456](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [maxVowels](./code/1456_maxVowels) | ⭐⭐ | Sliding Window | 1️⃣ |
 | 1710 | [maximumUnits](./code/1710_maximumUnits) | ⭐ | Sort, Greedy |  |
 | 9001 | [isUnique](./code/9001_isUnique) | ⭐ | Array |  |
