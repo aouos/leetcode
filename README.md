@@ -92,6 +92,7 @@
 | 0821 | [shortestToChar](./code/0821_shortestToChar) | ⭐ | Greedy |  |
 | 0830 | [largeGroupPositions](./code/0830_largeGroupPositions) | ⭐ | Array |  |
 | 0832 | [flipAndInvertImage](./code/0832_flipAndInvertImage) | ⭐ | Array |  |
+| [0837](https://leetcode-cn.com/problems/new-21-game/) | [new21Game](./code/0837_new21Game) | ⭐⭐ | DP, Sliding Window |  |
 | 0860 | [lemonadeChange](./code/0860_lemonadeChange) | ⭐ | Greedy |  |
 | 0876 | [middleNode](./code/0876_middleNode) | ⭐ | Array | 2️⃣ |
 | 0888 | [fairCandySwap](./code/0888_fairCandySwap) | ⭐ | Array | 1️⃣ |
