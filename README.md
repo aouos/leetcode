@@ -68,6 +68,7 @@
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |  |
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ⭐ | Hash Table, Bit |  |
 | [0394](https://leetcode-cn.com/problems/decode-string/) | [decodeString](./code/0394_decodeString) | ⭐⭐ | Stack, DFS | 1️⃣ |
+| [0401](https://leetcode-cn.com/problems/binary-watch/submissions/) | [readBinaryWatch](./code/0401_readBinaryWatch) | ⭐ | Bit | 1️⃣ |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |  |
 | 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window | 1️⃣ |
