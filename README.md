@@ -25,6 +25,7 @@
 | 0034 | [searchRange](./code/0034_searchRange) | ⭐⭐ | Array, Binary Search |  |
 | [0035](https://leetcode-cn.com/problems/search-insert-position/) | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search | 2️⃣ |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking | |
+| [0052](https://leetcode-cn.com/problems/n-queens-ii/) | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS | 1️⃣ |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List | 1️⃣ |
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array |  |
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array | 2️⃣ |
