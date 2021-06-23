@@ -9,14 +9,20 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+
 var reverseList = function (head) {
   let cur = head;
   let pre = null;
+
   while (cur) {
     const next = cur.next;
     cur.next = pre;
     pre = cur;
     cur = next;
   }
+
   return pre;
 };
+
+// 时间复杂度: O(1)
+// 空间复杂度: O(1)

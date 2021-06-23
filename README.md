@@ -52,9 +52,10 @@
 | 0189 | [rotate](./code/0189_rotate) | ⭐⭐ | Array |  |
 | 0191 | [hammingWeight](./code/0191_hammingWeight) | ⭐ | Bit | 1️⃣ |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ⭐ | Hash Table |  |
-| 0206 | [reverseList](./code/0206_reverseList) | ⭐ | Linked List |  |
+| [0206](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverseList](./code/0206_reverseList) | ⭐ | Linked List |  |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |  |
 | 0232 | [MyQueue](./code/0232_MyQueue) | ⭐ | Stack |  |
+| [0237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [deleteNode](./code/0237_deleteNode) | ⭐ | Linked List |  |
 | 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow) | ⭐⭐⭐ | Sliding Window |  |
 | 0268 | [missingNumber](./code/0268_missingNumber) | ⭐ | Bit, Array |  |
 | [0278](https://leetcode-cn.com/problems/first-bad-version/) | [isBadVersion](./code/0278_isBadVersion) | ⭐ | Binary Search | 1️⃣ |
