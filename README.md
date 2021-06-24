@@ -88,6 +88,7 @@
 | 0704 | [search](./code/0704_search) | ⭐ | Binary Search | 1️⃣ |
 | 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array | 1️⃣ |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |  |
+| [0746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [minCostClimbingStairs](./code/0746_minCostClimbingStairs) | ⭐ | DP |  |
 | 0766 | [isToeplitzMatrix](./code/0766_isToeplitzMatrix) | ⭐ | Array | 1️⃣ |
 | 0768 | [maxChunksToSorted](./code/0768_maxChunksToSorted) | ⭐⭐⭐ | Array, Stack | 2️⃣ |
 | 0781 | [numRabbits](./code/0781_numRabbits) | ⭐⭐ | Hash Table | 1️⃣ |
