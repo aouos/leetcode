@@ -27,7 +27,7 @@
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking | |
 | [0052](https://leetcode-cn.com/problems/n-queens-ii/) | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS | 1️⃣ |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List | 1️⃣ |
-| 0062 | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array |  |
+| [0062](https://leetcode-cn.com/problems/unique-paths/) | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array | 1️⃣ |
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array | 2️⃣ |
 | 0069 | [mySqrt](./code/0069_mySqrt) | ⭐ | Binary Search |  |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ⭐ | DP |  |
