@@ -51,6 +51,7 @@
 | 0162 | [findPeakElement](./code/0162_findPeakElement) | ⭐⭐ | Array, Binary Search |  |
 | 0189 | [rotate](./code/0189_rotate) | ⭐⭐ | Array |  |
 | 0191 | [hammingWeight](./code/0191_hammingWeight) | ⭐ | Bit | 1️⃣ |
+| [0203](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [removeElements](./code/0203_removeElements) | ⭐ | Linked List | 1️⃣ |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ⭐ | Hash Table |  |
 | [0206](https://leetcode-cn.com/problems/reverse-linked-list/) | [reverseList](./code/0206_reverseList) | ⭐ | Linked List |  |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |  |
