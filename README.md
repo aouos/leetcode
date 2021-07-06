@@ -75,6 +75,7 @@
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |  |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |  |
 | 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window | 1️⃣ |
+| [0435](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [eraseOverlapIntervals](./code/0435_eraseOverlapIntervals) | ⭐⭐ | Greedy | 1️⃣ |
 | [0447](https://leetcode-cn.com/problems/number-of-boomerangs/) | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ⭐⭐ | Hash Table, Math | 1️⃣ |
 | 0451 | [frequencySort](./code/0451_frequencySort) | ⭐⭐ | Hash Table |  |
 | [0455](https://leetcode-cn.com/problems/assign-cookies/) | [findContentChildren](./code/0455_findContentChildren) | ⭐ | Greedy |  |
