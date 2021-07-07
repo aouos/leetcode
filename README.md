@@ -101,6 +101,7 @@
 | [0837](https://leetcode-cn.com/problems/new-21-game/) | [new21Game](./code/0837_new21Game) | ⭐⭐ | DP, Sliding Window |  |
 | 0860 | [lemonadeChange](./code/0860_lemonadeChange) | ⭐ | Greedy |  |
 | 0876 | [middleNode](./code/0876_middleNode) | ⭐ | Array | 2️⃣ |
+| [0881](https://leetcode-cn.com/problems/boats-to-save-people/) | [numRescueBoats](./code/0881_numRescueBoats) | ⭐ | Greedy | 1️⃣ |
 | 0888 | [fairCandySwap](./code/0888_fairCandySwap) | ⭐ | Array | 1️⃣ |
 | 0898 | [isMonotonic](./code/0898_isMonotonic) | ⭐ | Array | 1️⃣ |
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ⭐ | Array, Sort |  |
