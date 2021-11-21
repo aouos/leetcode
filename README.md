@@ -1,7 +1,6 @@
 # 😜 Record my leetcode problem solution
 
 - 🎨 Remarks: number of solutions, completion
-- 📚 Gitbook: [https://aouos.gitbook.io/leetcode/](https://aouos.gitbook.io/leetcode/)
 
 | ID | Name | Difficulty | Tags | Remarks |
 | :---: | :--- | :---: | :---: | :---: |
