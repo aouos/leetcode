@@ -3,12 +3,13 @@
  * @param {number} target
  * @return {number[]}
  */
-
 var twoSum = function (nums, target) {
+  const n = nums.length;
   const map = {};
 
-  for (let i = 0; i < nums.length; i++) {
+  for (let i = 0; i < n; i++) {
     const diff = target - nums[i];
+
     if (diff in map) {
       return [map[diff], i];
     }
@@ -17,6 +18,3 @@ var twoSum = function (nums, target) {
 
   return [];
 };
-
-// 时间复杂度 O(N)
-// 空间复杂度 O(1)
