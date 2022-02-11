@@ -1,8 +1,7 @@
-# 🎉 Record my leetcode problem solution
-
+# [My Leetcode Problem Solution 🎉](https://github.com/aouos/leetcode/tree/main/code)
 | ID | Name | Difficulty | Tags |
 | :---: | :--- | :---: | :---: |
-| [0001](https://github.com/aouos/leetcode/issues/4) | [twoSum](./code/0001_twoSum/) | ⭐ | Array, Hash Table |
+| 0001 | [twoSum (两数之和)](https://github.com/aouos/leetcode/issues/4) | ⭐ | array, hash-table |
 | 0002 | [addTwoNumbers](./code/0002_addTwoNumbers) | ⭐⭐ | Math, linked List |
 | 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring) | ⭐⭐ | Hash Table, Two Pointers, Sliding Window |
 | 0007 | [reverse](./code/0007_reverse) | ⭐ | Math |
