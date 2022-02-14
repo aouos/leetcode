@@ -8,7 +8,7 @@
 | 0009 | [isPalindrome](./code/0009_isPalindrome) | ⭐ | Math |
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
-| 0015 | [threeSum](./code/0015_threeSum) | ⭐⭐ | Two Pointers, Array |
+| 0015 | [threeSum (三数之和)](https://github.com/aouos/leetcode/issues/7) | ⭐⭐ | array, two-pointers |
 | 0020 | [isValid](./code/0020_isValid) | ⭐ | Stack, String |
 | 0024 | [swapPairs](./code/0024_swapPairs) | ⭐⭐ | Linked List, Recursion |
 | 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ⭐ | Two Pointers, Array |
