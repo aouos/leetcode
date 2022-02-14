@@ -11,7 +11,10 @@ var threeSum = function (nums) {
   }
   nums.sort((a, b) => a - b);
   for (let i = 0; i < n - 2; i++) {
-    if (nums[i] > 0 || nums[i] === nums[i - 1]) {
+    if (nums[i] > 0) {
+      return result;
+    }
+    if (i > 0 && nums[i] === nums[i - 1]) {
       continue;
     }
 
@@ -19,9 +22,10 @@ var threeSum = function (nums) {
     let r = n - 1;
 
     while (l < r) {
-      if (nums[i] + nums[l] + nums[r] < 0) {
+      const sum = nums[i] + nums[l] + nums[r];
+      if (sum < 0) {
         l++;
-      } else if (nums[i] + nums[l] + nums[r] > 0) {
+      } else if (sum > 0) {
         r--;
       } else {
         result.push([nums[i], nums[l], nums[r]]);
