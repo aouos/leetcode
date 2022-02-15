@@ -35,7 +35,7 @@ const whiteHtml = (fileName) => {
   const data = readJson(fileName);
   let contentData = '';
 
-  contentData += `<a href="${data.link}">${PrefixZero(data.id)}-${
+  contentData += `<a href="${data.link}">${PrefixZero(data.fid)}-${
     data.templateMeta.name
   } (${data.name})</a>\n\n`;
 
