@@ -42,7 +42,7 @@
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit) | ⭐⭐ | Greedy |
 | 0136 | [singleNumber](./code/0136_singleNumber) | ⭐ | Hash Table |
 | 0141 | [hasCycle (环形链表)](https://github.com/aouos/leetcode/issues/11) | ⭐⭐ | linked-list, two-pointers |
-| 0142 | [detectCycle](./code/0142_detectCycle) | ⭐⭐ | Linked List, Two Pointers |
+| 0142 | [detectCycle (环形链表 II)](https://github.com/aouos/leetcode/issues/12) | linked-list, two-pointers  |
 | 0146 | [LRUCache](./code/0146_LRUCache) | ⭐⭐ | Design |
 | 0160 | [getIntersectionNode](./code/0160_getIntersectionNode) | ⭐ | Linked List |
 | 0162 | [findPeakElement](./code/0162_findPeakElement) | ⭐⭐ | Array, Binary Search |
