@@ -87,7 +87,7 @@
 | 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ⭐ | Greedy |
 | 0628 | [maximumProduct](./code/0628_maximumProduct) | ⭐ | Array |
 | 0674 | [findLengthOfLCIS](./code/0674_findLengthOfLCIS) | ⭐ | Array |
-| 0704 | [search](./code/0704_search) | ⭐ | Binary Search |
+| 0704 | [binarySearch (二分查找)](https://github.com/aouos/leetcode/issues/15) | ⭐ | binary-search |
 | 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |
 | 0746 | [minCostClimbingStairs](./code/0746_minCostClimbingStairs) | ⭐ | DP |
