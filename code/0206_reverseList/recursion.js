@@ -9,9 +9,10 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
-
 var reverseList = function (head) {
-  if (head === null || head.next === null) return head;
+  if (!head || !head.next) {
+    return head;
+  }
 
   const newHead = reverseList(head.next);
   head.next.next = head;
@@ -19,6 +20,3 @@ var reverseList = function (head) {
 
   return newHead;
 };
-
-// 时间复杂度: O(1)
-// 空间复杂度: O(1)

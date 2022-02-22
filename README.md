@@ -53,7 +53,7 @@
 | 0191 | [hammingWeight](./code/0191_hammingWeight) | ⭐ | Bit |
 | 0203 | [removeElements](./code/0203_removeElements) | ⭐ | Linked List |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ⭐ | Hash Table |
-| 0206 | [reverseList](./code/0206_reverseList) | ⭐ | Linked List |
+| 0206 | [reverseList](https://github.com/aouos/leetcode/issues/16) | ⭐ | linked-list |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |
 | 0232 | [MyQueue](./code/0232_MyQueue) | ⭐ | Stack |
 | 0237 | [deleteNode](./code/0237_deleteNode) | ⭐ | Linked List |

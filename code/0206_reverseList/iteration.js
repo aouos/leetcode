@@ -1,15 +1,14 @@
 /**
  * Definition for singly-linked list.
- * function ListNode(val) {
- *     this.val = val;
- *     this.next = null;
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
  * }
  */
 /**
  * @param {ListNode} head
  * @return {ListNode}
  */
-
 var reverseList = function (head) {
   let cur = head;
   let pre = null;
@@ -23,6 +22,3 @@ var reverseList = function (head) {
 
   return pre;
 };
-
-// 时间复杂度: O(1)
-// 空间复杂度: O(1)
