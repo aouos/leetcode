@@ -5,7 +5,7 @@
 | ID | Name | Difficulty | Tags |
 | :---: | :--- | :---: | :---: |
 | 0001 | [twoSum (两数之和)](https://github.com/aouos/leetcode/issues/4) | ⭐ | array, hash-table |
-| 0002 | [addTwoNumbers](./code/0002_addTwoNumbers) | ⭐⭐ | Math, linked List |
+| 0002 | [addTwoNumbers (两数相加)](https://github.com/aouos/leetcode/issues/5) | ⭐⭐ | linked-list, math |
 | 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring) | ⭐⭐ | Hash Table, Two Pointers, Sliding Window |
 | 0007 | [reverse](./code/0007_reverse) | ⭐ | Math |
 | 0009 | [isPalindrome](./code/0009_isPalindrome) | ⭐ | Math |
