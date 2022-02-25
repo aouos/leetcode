@@ -21,8 +21,8 @@
 | 0031 | [nextPermutation](./code/0031_nextPermutation) | ⭐⭐ | Array |
 | 0032 | [longestValidParentheses](./code/0032_longestValidParentheses) | ⭐⭐⭐ | DP, Stack |
 | 0033 | [search](./code/0033_search) | ⭐⭐ | Array, Binary Search |
-| 0034 | [searchRange](./code/0034_searchRange) | ⭐⭐ | Array, Binary Search |
-| 0035 | [searchInsert](./code/0035_searchInsert) | ⭐ | Array, Binary Search |
+| 0034 | [searchRange (在排序数组中查找元素的第一个和最后一个位置)](https://github.com/aouos/leetcode/issues/17) | ⭐⭐ | array, binary-search |
+| 0035 | [searchInsert (搜索插入位置)](https://github.com/aouos/leetcode/issues/18) | ⭐ | array, binary-search |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking |
 | 0052 | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List |
