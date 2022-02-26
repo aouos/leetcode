@@ -1,6 +1,6 @@
 # My Leetcode Problem Solution 🎉
 
-[Code 源代码](https://github.com/aouos/leetcode/tree/main/code) | [Topic 题目列表](https://github.com/aouos/leetcode/issues) | [Discussions 讨论区](https://github.com/aouos/leetcode/discussions) | [Projects 任务看板](https://github.com/aouos/leetcode/projects/1)
+[Code 源代码](https://github.com/aouos/leetcode/tree/main/code) | [Topic 题目列表](https://github.com/aouos/leetcode/issues) | [Discussions 讨论区](https://github.com/aouos/leetcode/discussions) | [Projects 任务看板](https://github.com/aouos/leetcode/projects/1) | [DEV 在线查看](https://github.dev/aouos/leetcode)
 
 | ID | Name | Difficulty | Tags |
 | :---: | :--- | :---: | :---: |
@@ -48,7 +48,7 @@
 | 0142 | [detectCycle (环形链表 II)](https://github.com/aouos/leetcode/issues/12) | ⭐⭐ | linked-list, two-pointers |
 | 0146 | [LRUCache](./code/0146_LRUCache) | ⭐⭐ | Design |
 | 0160 | [getIntersectionNode](./code/0160_getIntersectionNode) | ⭐ | Linked List |
-| 0162 | [findPeakElement](./code/0162_findPeakElement) | ⭐⭐ | Array, Binary Search |
+| 0162 | [findPeakElement (寻找峰值)](https://github.com/aouos/leetcode/issues/19) | ⭐⭐ | array, binary-search |
 | 0189 | [rotate](./code/0189_rotate) | ⭐⭐ | Array |
 | 0191 | [hammingWeight](./code/0191_hammingWeight) | ⭐ | Bit |
 | 0203 | [removeElements](./code/0203_removeElements) | ⭐ | Linked List |
@@ -59,14 +59,14 @@
 | 0237 | [deleteNode](./code/0237_deleteNode) | ⭐ | Linked List |
 | 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow) | ⭐⭐⭐ | Sliding Window |
 | 0268 | [missingNumber](./code/0268_missingNumber) | ⭐ | Bit, Array |
-| 0278 | [isBadVersion](./code/0278_isBadVersion) | ⭐ | Binary Search |
+| 0278 | [firstBadVersion (第一个错误的版本)]() | ⭐ | binary-search |
 | 0290 | [wordPattern](./code/0290_wordPattern) | ⭐ | Hash Table |
 | 0297 | [serialize_seserialize](./code/0297_serialize_seserialize) | ⭐⭐⭐ | Tree |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |
 | 0347 | [topKFrequent](./code/0347_topKFrequent) | ⭐⭐ | Hash Table, Heap |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |
-| 0374 | [getSum](./code/0374_guessNumber) | ⭐ | Binary Search |
+| 0374 | [guessNumber (猜数字大小)]() | ⭐ | binary-search |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |
 | 0389 | [findTheDifference](./code/0389_findTheDifference) | ⭐ | Hash Table, Bit |
