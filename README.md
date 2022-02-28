@@ -30,7 +30,7 @@
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array |
 | 0069 | [mySqrt (x 的平方根 )](https://github.com/aouos/leetcode/issues/14) | ⭐ | binary-search |
 | 0070 | [climbStairs](./code/0070_climbStairs) | ⭐ | DP |
-| 0074 | [searchMatrix](./code/0074_searchMatrix) | ⭐⭐ | Binary Search |
+| 0074 | [searchMatrix (搜索二维矩阵)](https://github.com/aouos/leetcode/issues/21) | ⭐⭐ | array, binary-search |
 | 0075 | [sortColors](./code/0075_sortColors) | ⭐⭐ | Two Pointers, Array |
 | 0076 | [minWindow](./code/0076_minWindow) | ⭐⭐⭐ | Sliding Window |
 | 0078 | [subsets](./code/0078_subsets) | ⭐⭐ | Array, Backtracking |
