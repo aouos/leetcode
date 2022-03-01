@@ -6,13 +6,15 @@
 | :---: | :--- | :---: | :---: |
 | 0001 | [twoSum (两数之和)](https://github.com/aouos/leetcode/issues/4) | ⭐ | array, hash-table |
 | 0002 | [addTwoNumbers (两数相加)](https://github.com/aouos/leetcode/issues/5) | ⭐⭐ | linked-list, math |
-| 0003 | [lengthOfLongestSubstring](./code/0003_lengthOfLongestSubstring) | ⭐⭐ | Hash Table, Two Pointers, Sliding Window |
+| 0003 | [lengthOfLongestSubstring (无重复字符的最长子串)](https://github.com/aouos/leetcode/issues/22) | ⭐⭐ | hash-table, two-pointers, string, sliding-window |
+| 0005 | [longestPalindrome (最长回文子串)](https://github.com/aouos/leetcode/issues/23) | ⭐⭐ | string, dynamic-programming |
 | 0007 | [reverse](./code/0007_reverse) | ⭐ | Math |
 | 0009 | [isPalindrome](./code/0009_isPalindrome) | ⭐ | Math |
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
 | 0015 | [threeSum (三数之和)](https://github.com/aouos/leetcode/issues/7) | ⭐⭐ | array, two-pointers |
 | 0020 | [isValid](./code/0020_isValid) | ⭐ | Stack, String |
+| 0021 | [mergeTwoLists (合并两个有序链表)](https://github.com/aouos/leetcode/issues/24) | ⭐ | linked-list |
 | 0024 | [swapPairs](./code/0024_swapPairs) | ⭐⭐ | Linked List, Recursion |
 | 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ⭐ | Two Pointers, Array |
 | 0027 | [removeElement](./code/0027_removeElement) | ⭐ | Two Pointers, Array |
