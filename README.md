@@ -13,7 +13,8 @@
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
 | 0015 | [threeSum (三数之和)](https://github.com/aouos/leetcode/issues/7) | ⭐⭐ | array, two-pointers |
-| 0020 | [isValid](./code/0020_isValid) | ⭐ | Stack, String |
+| 0019 | [removeNthFromEnd (删除链表的倒数第 N 个结点)](https://github.com/aouos/leetcode/issues/25) | ⭐⭐ | linked-list, two-pointers |
+| 0020 | [isValid (有效的括号)](https://github.com/aouos/leetcode/issues/26) | ⭐ | string, stack |
 | 0021 | [mergeTwoLists (合并两个有序链表)](https://github.com/aouos/leetcode/issues/24) | ⭐ | linked-list |
 | 0024 | [swapPairs](./code/0024_swapPairs) | ⭐⭐ | Linked List, Recursion |
 | 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ⭐ | Two Pointers, Array |
@@ -31,7 +32,7 @@
 | 0062 | [uniquePaths](./code/0062_uniquePaths) | ⭐⭐ | DP, Array |
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array |
 | 0069 | [mySqrt (x 的平方根 )](https://github.com/aouos/leetcode/issues/14) | ⭐ | binary-search |
-| 0070 | [climbStairs](./code/0070_climbStairs) | ⭐ | DP |
+| 0070 | [climbStairs (爬楼梯)](https://github.com/aouos/leetcode/issues/27) | ⭐ | dynamic-programming |
 | 0074 | [searchMatrix (搜索二维矩阵)](https://github.com/aouos/leetcode/issues/21) | ⭐⭐ | array, binary-search |
 | 0075 | [sortColors](./code/0075_sortColors) | ⭐⭐ | Two Pointers, Array |
 | 0076 | [minWindow](./code/0076_minWindow) | ⭐⭐⭐ | Sliding Window |
