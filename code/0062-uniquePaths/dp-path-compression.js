@@ -3,7 +3,6 @@
  * @param {number} n
  * @return {number}
  */
-
 var uniquePaths = function (m, n) {
   const dp = new Array(n).fill(1);
 
@@ -15,6 +14,3 @@ var uniquePaths = function (m, n) {
 
   return dp[n - 1];
 };
-
-// 时间复杂度 O(M*N)
-// 空间复杂度 O(N)

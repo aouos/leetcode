@@ -3,9 +3,11 @@
  * @return {number}
  */
 var singleNumber = function (nums) {
-  let res = 0;
-  for(const a of nums) {
-    res ^= a;
+  let ans = 0;
+
+  for (const i of nums) {
+    ans ^= i;
   }
-  return res;
+
+  return ans;
 };
