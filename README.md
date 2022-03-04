@@ -13,6 +13,7 @@
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
 | 0015 | [threeSum (三数之和)](https://github.com/aouos/leetcode/issues/7) | ⭐⭐ | array, two-pointers |
+| 0017 | [letterCombinations (电话号码的字母组合)](https://github.com/aouos/leetcode/issues/31) | ⭐⭐ | string, backtracking |
 | 0019 | [removeNthFromEnd (删除链表的倒数第 N 个结点)](https://github.com/aouos/leetcode/issues/25) | ⭐⭐ | linked-list, two-pointers |
 | 0020 | [isValid (有效的括号)](https://github.com/aouos/leetcode/issues/26) | ⭐ | string, stack |
 | 0021 | [mergeTwoLists (合并两个有序链表)](https://github.com/aouos/leetcode/issues/24) | ⭐ | linked-list |
@@ -29,8 +30,10 @@
 | 0035 | [searchInsert (搜索插入位置)](https://github.com/aouos/leetcode/issues/18) | ⭐ | array, binary-search |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking |
 | 0052 | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS |
+| 0053 | [maxSubArray (最大子数组和)](https://github.com/aouos/leetcode/issues/32) | ⭐ | array, divide-and-conquer, dynamic-programming |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List |
 | 0062 | [uniquePaths (不同路径)](https://github.com/aouos/leetcode/issues/29) | ⭐⭐ | array, dynamic-programming|
+| 0064 | [minPathSum (最小路径和)](https://github.com/aouos/leetcode/issues/33) | ⭐⭐ | array, dynamic-programming|
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array |
 | 0069 | [mySqrt (x 的平方根 )](https://github.com/aouos/leetcode/issues/14) | ⭐ | binary-search |
 | 0070 | [climbStairs (爬楼梯)](https://github.com/aouos/leetcode/issues/27) | ⭐ | dynamic-programming |
