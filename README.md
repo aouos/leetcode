@@ -29,6 +29,7 @@
 | 0034 | [searchRange (在排序数组中查找元素的第一个和最后一个位置)](https://github.com/aouos/leetcode/issues/17) | ⭐⭐ | array, binary-search |
 | 0035 | [searchInsert (搜索插入位置)](https://github.com/aouos/leetcode/issues/18) | ⭐ | array, binary-search |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking |
+| 0048 | [rotate (旋转图像)](https://github.com/aouos/leetcode/issues/34) | ⭐⭐ | array |
 | 0052 | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS |
 | 0053 | [maxSubArray (最大子数组和)](https://github.com/aouos/leetcode/issues/32) | ⭐ | array, divide-and-conquer, dynamic-programming |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List |
@@ -41,8 +42,10 @@
 | 0075 | [sortColors](./code/0075_sortColors) | ⭐⭐ | Two Pointers, Array |
 | 0076 | [minWindow](./code/0076_minWindow) | ⭐⭐⭐ | Sliding Window |
 | 0078 | [subsets](./code/0078_subsets) | ⭐⭐ | Array, Backtracking |
+| 0079 | [exist (单词搜索)](https://github.com/aouos/leetcode/issues/35) | ⭐⭐ | array, backtracking |
 | 0086 | [partition](./code/0086_partition) | ⭐⭐ | Linked List |
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |
+| 0094 | [inorderTraversal (二叉树的中序遍历)](https://github.com/aouos/leetcode/issues/36) | ⭐ | hash-table, stack, tree |
 | 0104 | [maxDepth](./code/0104_maxDepth) | ⭐ | DFS, Recursion |
 | 0100 | [isSameTree](./code/0100_isSameTree) | ⭐ | DFS, Tree |
 | 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion |
