@@ -10,6 +10,7 @@
 | 0005 | [longestPalindrome (最长回文子串)](https://github.com/aouos/leetcode/issues/23) | ⭐⭐ | string, dynamic-programming |
 | 0007 | [reverse](./code/0007_reverse) | ⭐ | Math |
 | 0009 | [isPalindrome](./code/0009_isPalindrome) | ⭐ | Math |
+| 0011 | [maxArea (盛最多水的容器)](https://github.com/aouos/leetcode/issues/37) | ⭐⭐ | array, two-pointers |
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
 | 0015 | [threeSum (三数之和)](https://github.com/aouos/leetcode/issues/7) | ⭐⭐ | array, two-pointers |
@@ -32,6 +33,7 @@
 | 0048 | [rotate (旋转图像)](https://github.com/aouos/leetcode/issues/34) | ⭐⭐ | array |
 | 0052 | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS |
 | 0053 | [maxSubArray (最大子数组和)](https://github.com/aouos/leetcode/issues/32) | ⭐ | array, divide-and-conquer, dynamic-programming |
+| 0055 | [canJump (跳跃游戏)](https://github.com/aouos/leetcode/issues/38) | ⭐⭐ | array, greedy |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List |
 | 0062 | [uniquePaths (不同路径)](https://github.com/aouos/leetcode/issues/29) | ⭐⭐ | array, dynamic-programming|
 | 0064 | [minPathSum (最小路径和)](https://github.com/aouos/leetcode/issues/33) | ⭐⭐ | array, dynamic-programming|
@@ -46,6 +48,7 @@
 | 0086 | [partition](./code/0086_partition) | ⭐⭐ | Linked List |
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |
 | 0094 | [inorderTraversal (二叉树的中序遍历)](https://github.com/aouos/leetcode/issues/36) | ⭐ | hash-table, stack, tree |
+| 0101 | [isSymmetric (对称二叉树)](https://github.com/aouos/leetcode/issues/39) | ⭐ | tree, dfs, bfs |
 | 0104 | [maxDepth](./code/0104_maxDepth) | ⭐ | DFS, Recursion |
 | 0100 | [isSameTree](./code/0100_isSameTree) | ⭐ | DFS, Tree |
 | 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion |
