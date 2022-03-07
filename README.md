@@ -30,6 +30,7 @@
 | 0034 | [searchRange (在排序数组中查找元素的第一个和最后一个位置)](https://github.com/aouos/leetcode/issues/17) | ⭐⭐ | array, binary-search |
 | 0035 | [searchInsert (搜索插入位置)](https://github.com/aouos/leetcode/issues/18) | ⭐ | array, binary-search |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking |
+| 0042 | [trap (接雨水)](https://github.com/aouos/leetcode/issues/40) | ⭐⭐⭐ | array, two-pointers, stack |
 | 0048 | [rotate (旋转图像)](https://github.com/aouos/leetcode/issues/34) | ⭐⭐ | array |
 | 0052 | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS |
 | 0053 | [maxSubArray (最大子数组和)](https://github.com/aouos/leetcode/issues/32) | ⭐ | array, divide-and-conquer, dynamic-programming |
@@ -49,6 +50,7 @@
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |
 | 0094 | [inorderTraversal (二叉树的中序遍历)](https://github.com/aouos/leetcode/issues/36) | ⭐ | hash-table, stack, tree |
 | 0101 | [isSymmetric (对称二叉树)](https://github.com/aouos/leetcode/issues/39) | ⭐ | tree, dfs, bfs |
+| 0102 | [levelOrder (二叉树的层序遍历)](https://github.com/aouos/leetcode/issues/41) | ⭐⭐ | tree, bfs |
 | 0104 | [maxDepth](./code/0104_maxDepth) | ⭐ | DFS, Recursion |
 | 0100 | [isSameTree](./code/0100_isSameTree) | ⭐ | DFS, Tree |
 | 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion |
@@ -60,6 +62,7 @@
 | 0141 | [hasCycle (环形链表)](https://github.com/aouos/leetcode/issues/11) | ⭐ | linked-list, two-pointers |
 | 0142 | [detectCycle (环形链表 II)](https://github.com/aouos/leetcode/issues/12) | ⭐⭐ | linked-list, two-pointers |
 | 0146 | [LRUCache](./code/0146_LRUCache) | ⭐⭐ | Design |
+| 0155 | [minStack (最小栈)](https://github.com/aouos/leetcode/issues/42) | ⭐ | stack, design |
 | 0160 | [getIntersectionNode](./code/0160_getIntersectionNode) | ⭐ | Linked List |
 | 0162 | [findPeakElement (寻找峰值)](https://github.com/aouos/leetcode/issues/19) | ⭐⭐ | array, binary-search |
 | 0189 | [rotate](./code/0189_rotate) | ⭐⭐ | Array |
