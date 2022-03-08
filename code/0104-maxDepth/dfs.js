@@ -10,12 +10,10 @@
  * @param {TreeNode} root
  * @return {number}
  */
-
 var maxDepth = function (root) {
-  if (!root) return 0;
+  if (!root) {
+    return 0;
+  }
 
   return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
 };
-
-// 时间复杂度：O(N)
-// 空间复杂度：O(H)

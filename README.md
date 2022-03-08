@@ -31,10 +31,12 @@
 | 0035 | [searchInsert (搜索插入位置)](https://github.com/aouos/leetcode/issues/18) | ⭐ | array, binary-search |
 | 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking |
 | 0042 | [trap (接雨水)](https://github.com/aouos/leetcode/issues/40) | ⭐⭐⭐ | array, two-pointers, stack |
+| 0046 | [permute (全排列)](https://github.com/aouos/leetcode/issues/43) | ⭐⭐ | backtracking |
 | 0048 | [rotate (旋转图像)](https://github.com/aouos/leetcode/issues/34) | ⭐⭐ | array |
 | 0052 | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS |
 | 0053 | [maxSubArray (最大子数组和)](https://github.com/aouos/leetcode/issues/32) | ⭐ | array, divide-and-conquer, dynamic-programming |
 | 0055 | [canJump (跳跃游戏)](https://github.com/aouos/leetcode/issues/38) | ⭐⭐ | array, greedy |
+| 0056 | [merge (合并区间)](https://github.com/aouos/leetcode/issues/44) | ⭐⭐ | array, sort |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List |
 | 0062 | [uniquePaths (不同路径)](https://github.com/aouos/leetcode/issues/29) | ⭐⭐ | array, dynamic-programming|
 | 0064 | [minPathSum (最小路径和)](https://github.com/aouos/leetcode/issues/33) | ⭐⭐ | array, dynamic-programming|
@@ -51,7 +53,7 @@
 | 0094 | [inorderTraversal (二叉树的中序遍历)](https://github.com/aouos/leetcode/issues/36) | ⭐ | hash-table, stack, tree |
 | 0101 | [isSymmetric (对称二叉树)](https://github.com/aouos/leetcode/issues/39) | ⭐ | tree, dfs, bfs |
 | 0102 | [levelOrder (二叉树的层序遍历)](https://github.com/aouos/leetcode/issues/41) | ⭐⭐ | tree, bfs |
-| 0104 | [maxDepth](./code/0104_maxDepth) | ⭐ | DFS, Recursion |
+| 0104 | [maxDepth (二叉树的最大深度)](https://github.com/aouos/leetcode/issues/45) | ⭐ | tree, depth-first-search |
 | 0100 | [isSameTree](./code/0100_isSameTree) | ⭐ | DFS, Tree |
 | 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion |
 | 0118 | [generate](./code/0118_generate) | ⭐ | Array |
