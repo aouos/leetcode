@@ -7,6 +7,7 @@
 | 0001 | [twoSum (两数之和)](https://github.com/aouos/leetcode/issues/4) | ⭐ | array, hash-table |
 | 0002 | [addTwoNumbers (两数相加)](https://github.com/aouos/leetcode/issues/5) | ⭐⭐ | linked-list, math |
 | 0003 | [lengthOfLongestSubstring (无重复字符的最长子串)](https://github.com/aouos/leetcode/issues/22) | ⭐⭐ | hash-table, two-pointers, string, sliding-window |
+| 0004 | [findMedianSortedArrays (寻找两个正序数组的中位数)](https://github.com/aouos/leetcode/issues/46) | ⭐⭐⭐ | array, binary-search, divide-and-conquer |
 | 0005 | [longestPalindrome (最长回文子串)](https://github.com/aouos/leetcode/issues/23) | ⭐⭐ | string, dynamic-programming |
 | 0007 | [reverse](./code/0007_reverse) | ⭐ | Math |
 | 0009 | [isPalindrome](./code/0009_isPalindrome) | ⭐ | Math |
@@ -82,7 +83,7 @@
 | 0297 | [serialize_seserialize](./code/0297_serialize_seserialize) | ⭐⭐⭐ | Tree |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |
-| 0347 | [topKFrequent](./code/0347_topKFrequent) | ⭐⭐ | Hash Table, Heap |
+| 0347 | [topKFrequent (前 K 个高频元素)](https://github.com/aouos/leetcode/issues/47) | ⭐⭐ | hash-table, heap |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |
 | 0374 | [guessNumber (猜数字大小)]() | ⭐ | binary-search |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |
@@ -103,6 +104,7 @@
 | 0518 | [change](./code/0518_change) | ⭐⭐ | DP |
 | 0547 | [findCircleNum](./code/0547_findCircleNum) | ⭐⭐ | DFS, UN |
 | 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ⭐ | Greedy |
+| 0617 | [mergeTrees (合并二叉树)](https://github.com/aouos/leetcode/issues/48) | ⭐ | tree |
 | 0628 | [maximumProduct](./code/0628_maximumProduct) | ⭐ | Array |
 | 0674 | [findLengthOfLCIS](./code/0674_findLengthOfLCIS) | ⭐ | Array |
 | 0704 | [binarySearch (二分查找)](https://github.com/aouos/leetcode/issues/15) | ⭐ | binary-search |
