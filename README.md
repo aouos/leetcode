@@ -65,6 +65,7 @@
 | 0141 | [hasCycle (环形链表)](https://github.com/aouos/leetcode/issues/11) | ⭐ | linked-list, two-pointers |
 | 0142 | [detectCycle (环形链表 II)](https://github.com/aouos/leetcode/issues/12) | ⭐⭐ | linked-list, two-pointers |
 | 0146 | [LRUCache](./code/0146_LRUCache) | ⭐⭐ | Design |
+| 0148 | [sortList (排序链表)](https://github.com/aouos/leetcode/issues/50) | ⭐⭐ | linked-list, sort |
 | 0155 | [minStack (最小栈)](https://github.com/aouos/leetcode/issues/42) | ⭐ | stack, design |
 | 0160 | [getIntersectionNode](./code/0160_getIntersectionNode) | ⭐ | Linked List |
 | 0162 | [findPeakElement (寻找峰值)](https://github.com/aouos/leetcode/issues/19) | ⭐⭐ | array, binary-search |
@@ -83,6 +84,7 @@
 | 0297 | [serialize_seserialize](./code/0297_serialize_seserialize) | ⭐⭐⭐ | Tree |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |
+| 0338 | [countBits (比特位计数)](https://github.com/aouos/leetcode/issues/51) | ⭐ | dynamic-programming, bit-manipulation |
 | 0347 | [topKFrequent (前 K 个高频元素)](https://github.com/aouos/leetcode/issues/47) | ⭐⭐ | hash-table, heap |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |
 | 0374 | [guessNumber (猜数字大小)]() | ⭐ | binary-search |
