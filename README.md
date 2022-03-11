@@ -100,10 +100,13 @@
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ⭐⭐ | Hash Table, Math |
 | 0451 | [frequencySort](./code/0451_frequencySort) | ⭐⭐ | Hash Table |
 | 0455 | [findContentChildren](./code/0455_findContentChildren) | ⭐ | Greedy |
+| 0461 | [hammingDistance (汉明距离)](https://github.com/aouos/leetcode/issues/52) | ⭐ | bit-manipulation |
+| 0494 | [findTargetSumWays (目标和)](https://github.com/aouos/leetcode/issues/53) | ⭐ | dynamic-programming, depth-first-search |
 | 0509 | [fib](./code/0509_fib) | ⭐ | Array |
 | 0513 | [findBottomLeftValue](./code/0513_findBottomLeftValue) | ⭐⭐ | DFS, BFS, Tree |
 | 0514 | [findRotateSteps](./code/0514_findRotateSteps) | ⭐⭐⭐ | DFS, DP |
 | 0518 | [change](./code/0518_change) | ⭐⭐ | DP |
+| 0543 | [diameterOfBinaryTree (二叉树的直径)](https://github.com/aouos/leetcode/issues/54) | ⭐ | tree |
 | 0547 | [findCircleNum](./code/0547_findCircleNum) | ⭐⭐ | DFS, UN |
 | 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ⭐ | Greedy |
 | 0617 | [mergeTrees (合并二叉树)](https://github.com/aouos/leetcode/issues/48) | ⭐ | tree |
