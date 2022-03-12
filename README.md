@@ -57,9 +57,11 @@
 | 0104 | [maxDepth (二叉树的最大深度)](https://github.com/aouos/leetcode/issues/45) | ⭐ | tree, depth-first-search |
 | 0100 | [isSameTree](./code/0100_isSameTree) | ⭐ | DFS, Tree |
 | 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion |
+| 0114 | [flatten (二叉树展开为链表)](https://github.com/aouos/leetcode/issues/55) | ⭐⭐ | tree, depth-first-search |
 | 0118 | [generate](./code/0118_generate) | ⭐ | Array |
 | 0121 | [maxProfit](./code/0121_maxProfit) | ⭐ | Array, DP |
 | 0122 | [maxProfit](./code/0122_maxProfit) | ⭐ | Greedy, Array |
+| 0128 | [longestConsecutive (最长连续序列)](https://github.com/aouos/leetcode/issues/56) | ⭐⭐ | array, union-find |
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit) | ⭐⭐ | Greedy |
 | 0136 | [singleNumber (只出现一次的数字)](https://github.com/aouos/leetcode/issues/30) | ⭐ | hash-table, bit-manipulation |
 | 0141 | [hasCycle (环形链表)](https://github.com/aouos/leetcode/issues/11) | ⭐ | linked-list, two-pointers |
@@ -115,6 +117,7 @@
 | 0704 | [binarySearch (二分查找)](https://github.com/aouos/leetcode/issues/15) | ⭐ | binary-search |
 | 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array |
 | 0738 | [monotoneIncreasingDigits](./code/0738_monotoneIncreasingDigits) | ⭐⭐ | Greedy |
+| 0739 | [dailyTemperatures (每日温度)](https://github.com/aouos/leetcode/issues/57) | ⭐⭐ | hash-table, stack |
 | 0746 | [minCostClimbingStairs](./code/0746_minCostClimbingStairs) | ⭐ | DP |
 | 0766 | [isToeplitzMatrix](./code/0766_isToeplitzMatrix) | ⭐ | Array |
 | 0768 | [maxChunksToSorted](./code/0768_maxChunksToSorted) | ⭐⭐⭐ | Array, Stack |
