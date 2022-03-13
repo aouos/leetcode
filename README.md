@@ -100,6 +100,7 @@
 | 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window |
 | 0435 | [eraseOverlapIntervals](./code/0435_eraseOverlapIntervals) | ⭐⭐ | Greedy |
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ⭐⭐ | Hash Table, Math |
+| 0448 | [findDisappearedNumbers (找到所有数组中消失的数字)](https://github.com/aouos/leetcode/issues/58) | ⭐ | array |
 | 0451 | [frequencySort](./code/0451_frequencySort) | ⭐⭐ | Hash Table |
 | 0455 | [findContentChildren](./code/0455_findContentChildren) | ⭐ | Greedy |
 | 0461 | [hammingDistance (汉明距离)](https://github.com/aouos/leetcode/issues/52) | ⭐ | bit-manipulation |
