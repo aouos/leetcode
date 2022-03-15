@@ -73,7 +73,7 @@
 | 0162 | [findPeakElement (寻找峰值)](https://github.com/aouos/leetcode/issues/19) | ⭐⭐ | array, binary-search |
 | 0189 | [rotate](./code/0189_rotate) | ⭐⭐ | Array |
 | 0191 | [hammingWeight](./code/0191_hammingWeight) | ⭐ | Bit |
-| 0203 | [removeElements](./code/0203_removeElements) | ⭐ | Linked List |
+| 0203 | [removeElements (移除链表元素)](https://github.com/aouos/leetcode/issues/59) | ⭐ | linked-list |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ⭐ | Hash Table |
 | 0206 | [reverseList (反转链表)](https://github.com/aouos/leetcode/issues/16) | ⭐ | linked-list |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |
