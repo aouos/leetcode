@@ -76,6 +76,7 @@
 | 0203 | [removeElements (移除链表元素)](https://github.com/aouos/leetcode/issues/59) | ⭐ | linked-list |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ⭐ | Hash Table |
 | 0206 | [reverseList (反转链表)](https://github.com/aouos/leetcode/issues/16) | ⭐ | linked-list |
+| 0215 | [findKthLargest (数组中的第K个最大元素)](https://github.com/aouos/leetcode/issues/60) | divide-and-conquer, heap |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |
 | 0232 | [MyQueue](./code/0232_MyQueue) | ⭐ | Stack |
 | 0237 | [deleteNode](./code/0237_deleteNode) | ⭐ | Linked List |
@@ -87,6 +88,7 @@
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |
 | 0338 | [countBits (比特位计数)](https://github.com/aouos/leetcode/issues/51) | ⭐ | dynamic-programming, bit-manipulation |
+| 0344 | [reverseString (反转字符串)](https://github.com/aouos/leetcode/issues/61) | ⭐ | two-pointers, string |
 | 0347 | [topKFrequent (前 K 个高频元素)](https://github.com/aouos/leetcode/issues/47) | ⭐⭐ | hash-table, heap |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |
 | 0374 | [guessNumber (猜数字大小)]() | ⭐ | binary-search |
