@@ -10,7 +10,7 @@
 | 0004 | [findMedianSortedArrays (寻找两个正序数组的中位数)](https://github.com/aouos/leetcode/issues/46) | ⭐⭐⭐ | array, binary-search, divide-and-conquer |
 | 0005 | [longestPalindrome (最长回文子串)](https://github.com/aouos/leetcode/issues/23) | ⭐⭐ | string, dynamic-programming |
 | 0007 | [reverse](./code/0007_reverse) | ⭐ | Math |
-| 0009 | [isPalindrome](./code/0009_isPalindrome) | ⭐ | Math |
+| 0009 | [isPalindrome (回文数)](./code/0009-isPalindrome) | ⭐ | math |
 | 0011 | [maxArea (盛最多水的容器)](https://github.com/aouos/leetcode/issues/37) | ⭐⭐ | array, two-pointers |
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
@@ -76,7 +76,7 @@
 | 0203 | [removeElements (移除链表元素)](https://github.com/aouos/leetcode/issues/59) | ⭐ | linked-list |
 | 0204 | [countPrimes](./code/0204_countPrimes) | ⭐ | Hash Table |
 | 0206 | [reverseList (反转链表)](https://github.com/aouos/leetcode/issues/16) | ⭐ | linked-list |
-| 0215 | [findKthLargest (数组中的第K个最大元素)](https://github.com/aouos/leetcode/issues/60) | divide-and-conquer, heap |
+| 0215 | [findKthLargest (数组中的第K个最大元素)](https://github.com/aouos/leetcode/issues/60) | ⭐⭐ | divide-and-conquer, heap |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |
 | 0232 | [MyQueue](./code/0232_MyQueue) | ⭐ | Stack |
 | 0237 | [deleteNode](./code/0237_deleteNode) | ⭐ | Linked List |
