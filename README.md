@@ -14,6 +14,7 @@
 | 0011 | [maxArea (盛最多水的容器)](https://github.com/aouos/leetcode/issues/37) | ⭐⭐ | array, two-pointers |
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
+| 0014 | [longestCommonPrefix (最长公共前缀)](https://github.com/aouos/leetcode/issues/63) | ⭐ | string |
 | 0015 | [threeSum (三数之和)](https://github.com/aouos/leetcode/issues/7) | ⭐⭐ | array, two-pointers |
 | 0017 | [letterCombinations (电话号码的字母组合)](https://github.com/aouos/leetcode/issues/31) | ⭐⭐ | string, backtracking |
 | 0019 | [removeNthFromEnd (删除链表的倒数第 N 个结点)](https://github.com/aouos/leetcode/issues/25) | ⭐⭐ | linked-list, two-pointers |
