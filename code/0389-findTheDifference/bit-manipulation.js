@@ -5,11 +5,14 @@
  */
 var findTheDifference = function (s, t) {
   let ans = 0;
-  for (const ch of s) {
-    ans ^= ch.charCodeAt();
+
+  for (const c of s) {
+    ans ^= c.charCodeAt();
   }
-  for (const ch of t) {
-    ans ^= ch.charCodeAt();
+
+  for (const c of t) {
+    ans ^= c.charCodeAt();
   }
+
   return String.fromCharCode(ans);
 };

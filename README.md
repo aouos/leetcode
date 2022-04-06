@@ -72,6 +72,7 @@
 | 0155 | [minStack (最小栈)](https://github.com/aouos/leetcode/issues/42) | ⭐ | stack, design |
 | 0160 | [getIntersectionNode](./code/0160_getIntersectionNode) | ⭐ | Linked List |
 | 0162 | [findPeakElement (寻找峰值)](https://github.com/aouos/leetcode/issues/19) | ⭐⭐ | array, binary-search |
+| 0169 | [majorityElement (多数元素)](https://github.com/aouos/leetcode/issues/68) | ⭐ | array, divide-and-conquer, bit-manipulation |
 | 0189 | [rotate](./code/0189_rotate) | ⭐⭐ | Array |
 | 0191 | [hammingWeight](./code/0191_hammingWeight) | ⭐ | Bit |
 | 0203 | [removeElements (移除链表元素)](https://github.com/aouos/leetcode/issues/59) | ⭐ | linked-list |
@@ -92,10 +93,10 @@
 | 0344 | [reverseString (反转字符串)](https://github.com/aouos/leetcode/issues/61) | ⭐ | two-pointers, string |
 | 0347 | [topKFrequent (前 K 个高频元素)](https://github.com/aouos/leetcode/issues/47) | ⭐⭐ | hash-table, heap |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |
-| 0374 | [guessNumber (猜数字大小)]() | ⭐ | binary-search |
+| 0374 | [guessNumber (猜数字大小)](https://github.com/aouos/leetcode/issues/69) | ⭐ | binary-search |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |
-| 0389 | [findTheDifference](./code/0389_findTheDifference) | ⭐ | Hash Table, Bit |
+| 0389 | [findTheDifference (找不同)](https://github.com/aouos/leetcode/issues/70) | ⭐ | hash-table, bit-manipulation |
 | 0394 | [decodeString](./code/0394_decodeString) | ⭐⭐ | Stack, DFS |
 | 0401 | [readBinaryWatch](./code/0401_readBinaryWatch) | ⭐ | Bit |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |
