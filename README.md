@@ -127,6 +127,7 @@
 | 0766 | [isToeplitzMatrix](./code/0766_isToeplitzMatrix) | ⭐ | Array |
 | 0768 | [maxChunksToSorted](./code/0768_maxChunksToSorted) | ⭐⭐⭐ | Array, Stack |
 | 0781 | [numRabbits](./code/0781_numRabbits) | ⭐⭐ | Hash Table |
+| 0796 | [rotateString (旋转字符串)](https://github.com/aouos/leetcode/issues/71) | ⭐ | string |
 | 0814 | [pruneTree](./code/0814_pruneTree) | ⭐ | Tree |
 | 0821 | [shortestToChar](./code/0821_shortestToChar) | ⭐ | Greedy |
 | 0830 | [largeGroupPositions](./code/0830_largeGroupPositions) | ⭐ | Array |

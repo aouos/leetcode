@@ -42,6 +42,7 @@ const whiteHtml = (fileName) => {
   contentData += `<strong>难度：</strong><code>${data.level}</code>\n\n`;
 
   contentData += `<strong>标签：</strong>`;
+  data.tags = data.tags || [];
   data.tags.forEach((item, index) => {
     if (index !== data.tags.length - 1) {
       contentData += `<code>${item}</code> `;
