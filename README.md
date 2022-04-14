@@ -101,6 +101,7 @@
 | 0401 | [readBinaryWatch](./code/0401_readBinaryWatch) | ⭐ | Bit |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |
+| 0415 | [addStrings (字符串相加)](https://github.com/aouos/leetcode/issues/72) | ⭐ | string |
 | 0424 | [characterReplacement](./code/0424_characterReplacement) | ⭐⭐ | Two Pointers, Sliding Window |
 | 0435 | [eraseOverlapIntervals](./code/0435_eraseOverlapIntervals) | ⭐⭐ | Greedy |
 | 0447 | [numberOfBoomerangs](./code/0447_numberOfBoomerangs) | ⭐⭐ | Hash Table, Math |
