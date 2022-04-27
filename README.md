@@ -48,7 +48,7 @@
 | 0074 | [searchMatrix (搜索二维矩阵)](https://github.com/aouos/leetcode/issues/21) | ⭐⭐ | array, binary-search |
 | 0075 | [sortColors](./code/0075_sortColors) | ⭐⭐ | Two Pointers, Array |
 | 0076 | [minWindow](./code/0076_minWindow) | ⭐⭐⭐ | Sliding Window |
-| 0078 | [subsets](./code/0078_subsets) | ⭐⭐ | Array, Backtracking |
+| 0078 | [0078-subsets](https://github.com/aouos/leetcode/issues/73) | ⭐⭐ | array, backtracking, bit-manipulation |
 | 0079 | [exist (单词搜索)](https://github.com/aouos/leetcode/issues/35) | ⭐⭐ | array, backtracking |
 | 0086 | [partition](./code/0086_partition) | ⭐⭐ | Linked List |
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |

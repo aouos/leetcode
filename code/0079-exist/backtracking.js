@@ -7,35 +7,33 @@ var exist = function (board, word) {
   const row = board.length;
   const col = board[0].length;
 
-  for (let i = 0; i < row; i++) {
-    for (let j = 0; j < col; j++) {
-      if (find(i, j, 0)) return true;
-    }
-  }
-
-  function find(i, j, cur) {
-    if (i >= row || i < 0 || j >= col || j < 0) {
+  const find = (i, j, idx) => {
+    if (i < 0 || i >= row || j < 0 || j >= col) {
       return false;
     }
-
     const now = board[i][j];
-
-    if (now !== word[cur]) {
+    if (now !== word[idx]) {
       return false;
     }
-    if (cur === word.length - 1) {
+    if (idx === word.length - 1) {
       return true;
     }
     board[i][j] = null;
-
-    const res =
-      find(i + 1, j, cur + 1) ||
-      find(i - 1, j, cur + 1) ||
-      find(i, j + 1, cur + 1) ||
-      find(i, j - 1, cur + 1);
+    const ret =
+      find(i + 1, j, idx + 1) ||
+      find(i - 1, j, idx + 1) ||
+      find(i, j + 1, idx + 1) ||
+      find(i, j - 1, idx + 1);
     board[i][j] = now;
+    return ret;
+  };
 
-    return res;
+  for (let i = 0; i < row; i++) {
+    for (let j = 0; j < col; j++) {
+      if (find(i, j, 0)) {
+        return true;
+      }
+    }
   }
 
   return false;
