@@ -1,11 +1,11 @@
-# My Leetcode Problem Solution 🎉
-
-[Code 源代码](https://github.com/aouos/leetcode/tree/main/code) | [Topic 题目列表](https://github.com/aouos/leetcode/issues) | [Discussions 讨论区](https://github.com/aouos/leetcode/discussions) | [Projects 任务看板](https://github.com/aouos/leetcode/projects/1) | [DEV 在线查看](https://github.dev/aouos/leetcode)
+<center>
+  <h2> My Leetcode Problem Solution</h2>
+</center>
 
 | ID | Name | Difficulty | Tags |
 | :---: | :--- | :---: | :---: |
-| 0001 | [twoSum (两数之和)](https://github.com/aouos/leetcode/issues/4) | ⭐ | array, hash-table |
-| 0002 | [addTwoNumbers (两数相加)](https://github.com/aouos/leetcode/issues/5) | ⭐⭐ | linked-list, math |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | ⭐ | array, hash-table |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ⭐⭐ | linked-list, math |
 | 0003 | [lengthOfLongestSubstring (无重复字符的最长子串)](https://github.com/aouos/leetcode/issues/22) | ⭐⭐ | hash-table, two-pointers, string, sliding-window |
 | 0004 | [findMedianSortedArrays (寻找两个正序数组的中位数)](https://github.com/aouos/leetcode/issues/46) | ⭐⭐⭐ | array, binary-search, divide-and-conquer |
 | 0005 | [longestPalindrome (最长回文子串)](https://github.com/aouos/leetcode/issues/23) | ⭐⭐ | string, dynamic-programming |
