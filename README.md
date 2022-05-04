@@ -4,8 +4,8 @@
 
 | ID | Name | Difficulty | Tags |
 | :---: | :--- | :---: | :---: |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | ⭐ | array, hash-table |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ⭐⭐ | linked-list, math |
+| 0001 | [Two Sum (两数之和)](https://leetcode.com/problems/two-sum/) | ⭐ | array, hash-table |
+| 0002 | [Add Two Numbers (两数相加)](https://leetcode.com/problems/add-two-numbers/) | ⭐⭐ | linked-list, math |
 | 0003 | [lengthOfLongestSubstring (无重复字符的最长子串)](https://github.com/aouos/leetcode/issues/22) | ⭐⭐ | hash-table, two-pointers, string, sliding-window |
 | 0004 | [findMedianSortedArrays (寻找两个正序数组的中位数)](https://github.com/aouos/leetcode/issues/46) | ⭐⭐⭐ | array, binary-search, divide-and-conquer |
 | 0005 | [longestPalindrome (最长回文子串)](https://github.com/aouos/leetcode/issues/23) | ⭐⭐ | string, dynamic-programming |
@@ -14,7 +14,7 @@
 | 0011 | [maxArea (盛最多水的容器)](https://github.com/aouos/leetcode/issues/37) | ⭐⭐ | array, two-pointers |
 | 0012 | [intToRoman](./code/0012_intToRoman) | ⭐⭐ | Math, String |
 | 0013 | [romanToInt](./code/0013_romanToInt) | ⭐ | Math, String |
-| 0014 | [longestCommonPrefix (最长公共前缀)](https://github.com/aouos/leetcode/issues/63) | ⭐ | string |
+| 0014 | [Longest Common Prefix (最长公共前缀)](https://leetcode.com/problems/longest-common-prefix/) | ⭐ | string |
 | 0015 | [threeSum (三数之和)](https://github.com/aouos/leetcode/issues/7) | ⭐⭐ | array, two-pointers |
 | 0017 | [letterCombinations (电话号码的字母组合)](https://github.com/aouos/leetcode/issues/31) | ⭐⭐ | string, backtracking |
 | 0019 | [removeNthFromEnd (删除链表的倒数第 N 个结点)](https://github.com/aouos/leetcode/issues/25) | ⭐⭐ | linked-list, two-pointers |
@@ -37,7 +37,7 @@
 | 0048 | [rotate (旋转图像)](https://github.com/aouos/leetcode/issues/34) | ⭐⭐ | array |
 | 0052 | [totalNQueens](./code/0052_totalNQueens) | ⭐⭐⭐ | DFS |
 | 0053 | [maxSubArray (最大子数组和)](https://github.com/aouos/leetcode/issues/32) | ⭐ | array, divide-and-conquer, dynamic-programming |
-| 0055 | [canJump (跳跃游戏)](https://github.com/aouos/leetcode/issues/38) | ⭐⭐ | array, greedy |
+| 0055 | [Jump Game (跳跃游戏)](https://leetcode.com/problems/jump-game/) | ⭐⭐ | array greedy dynamic-programming |
 | 0056 | [merge (合并区间)](https://github.com/aouos/leetcode/issues/44) | ⭐⭐ | array, sort |
 | 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List |
 | 0062 | [uniquePaths (不同路径)](https://github.com/aouos/leetcode/issues/29) | ⭐⭐ | array, dynamic-programming|

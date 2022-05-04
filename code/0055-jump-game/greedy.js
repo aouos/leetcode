@@ -4,12 +4,12 @@
  */
 var canJump = function (nums) {
   const len = nums.length;
-  let rightmost = 0;
+  let right = 0;
 
   for (let i = 0; i < len; i++) {
-    if (i <= rightmost) {
-      rightmost = Math.max(rightmost, i + nums[i]);
-      if (rightmost >= len - 1) {
+    if (i <= right) {
+      right = Math.max(right, i + nums[i]);
+      if (right >= len - 1) {
         return true;
       }
     }
