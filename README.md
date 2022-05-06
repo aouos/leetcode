@@ -48,8 +48,8 @@
 | 0074 | [searchMatrix (搜索二维矩阵)](https://github.com/aouos/leetcode/issues/21) | ⭐⭐ | array, binary-search |
 | 0075 | [sortColors](./code/0075_sortColors) | ⭐⭐ | Two Pointers, Array |
 | 0076 | [minWindow](./code/0076_minWindow) | ⭐⭐⭐ | Sliding Window |
-| 0078 | [0078-subsets](https://github.com/aouos/leetcode/issues/73) | ⭐⭐ | array, backtracking, bit-manipulation |
-| 0079 | [exist (单词搜索)](https://github.com/aouos/leetcode/issues/35) | ⭐⭐ | array, backtracking |
+| 0078 | [Subsets (子集)](https://leetcode.com/problems/subsets/) | ⭐⭐ | array, backtracking, bit-manipulation |
+| 0079 | [Word Search (单词搜索)](https://leetcode.com/problems/word-search/) | ⭐⭐ | array, backtracking |
 | 0086 | [partition](./code/0086_partition) | ⭐⭐ | Linked List |
 | 0088 | [merge](./code/0088_merge) | ⭐ | Array, Two Pointers |
 | 0094 | [inorderTraversal (二叉树的中序遍历)](https://github.com/aouos/leetcode/issues/36) | ⭐ | hash-table, stack, tree |
@@ -119,6 +119,7 @@
 | 0605 | [canPlaceFlowers](./code/0605_canPlaceFlowers) | ⭐ | Greedy |
 | 0617 | [mergeTrees (合并二叉树)](https://github.com/aouos/leetcode/issues/48) | ⭐ | tree |
 | 0628 | [maximumProduct](./code/0628_maximumProduct) | ⭐ | Array |
+| 0647 | [Palindromic Substrings (回文子串)](https://leetcode.com/problems/palindromic-substrings/) | ⭐⭐ | string, dynamic-programming |
 | 0674 | [findLengthOfLCIS](./code/0674_findLengthOfLCIS) | ⭐ | Array |
 | 0704 | [binarySearch (二分查找)](https://github.com/aouos/leetcode/issues/15) | ⭐ | binary-search |
 | 0724 | [pivotIndex](./code/0724_pivotIndex) | ⭐ | Array |
