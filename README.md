@@ -31,7 +31,7 @@
 | 0033 | [search](./code/0033_search) | ⭐⭐ | Array, Binary Search |
 | 0034 | [searchRange (在排序数组中查找元素的第一个和最后一个位置)](https://github.com/aouos/leetcode/issues/17) | ⭐⭐ | array, binary-search |
 | 0035 | [searchInsert (搜索插入位置)](https://github.com/aouos/leetcode/issues/18) | ⭐ | array, binary-search |
-| 0039 | [combinationSum](./code/0039_combinationSum) | ⭐⭐ | Array, Backtracking |
+| 0039 | [Combination Sum (组合总和)](https://leetcode.com/problems/combination-sum/) | ⭐⭐ | array, backtracking |
 | 0042 | [trap (接雨水)](https://github.com/aouos/leetcode/issues/40) | ⭐⭐⭐ | array, two-pointers, stack |
 | 0046 | [permute (全排列)](https://github.com/aouos/leetcode/issues/43) | ⭐⭐ | backtracking |
 | 0048 | [rotate (旋转图像)](https://github.com/aouos/leetcode/issues/34) | ⭐⭐ | array |
