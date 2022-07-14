@@ -4,7 +4,7 @@
 
 | ID | Name | Difficulty | Tags |
 | :---: | :--- | :---: | :---: |
-| 0001 | [Two Sum (两数之和)](https://leetcode.com/problems/two-sum/) | ⭐ | array, hash-table |
+| 0001 | [Two Sum (两数之和)](https://github.com/aouos/leetcode/issues/78) | ⭐ | array, hash-table |
 | 0002 | [Add Two Numbers (两数相加)](https://leetcode.com/problems/add-two-numbers/) | ⭐⭐ | linked-list, math |
 | 0003 | [lengthOfLongestSubstring (无重复字符的最长子串)](https://github.com/aouos/leetcode/issues/22) | ⭐⭐ | hash-table, two-pointers, string, sliding-window |
 | 0004 | [findMedianSortedArrays (寻找两个正序数组的中位数)](https://github.com/aouos/leetcode/issues/46) | ⭐⭐⭐ | array, binary-search, divide-and-conquer |
