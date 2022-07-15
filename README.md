@@ -143,7 +143,7 @@
 | 0922 | [sortArrayByParityII](./code/0922_sortArrayByParityII) | ⭐ | Array, Sort |
 | 0942 | [validMountainArray](./code/0942_validMountainArray) | ⭐ | Math |
 | 0987 | [verticalTraversal](./code/0987_verticalTraversal) | ⭐⭐⭐ | Tree, Hash Table |
-| 0989 | [addToArrayForm (数组形式的整数加法)](https://github.com/aouos/leetcode/issues/8) | ⭐ | array |
+| 0989 | [Add to Array-Form of Integer (数组形式的整数加法)](https://github.com/aouos/leetcode/issues/79) | ⭐ | array, math |
 | 1018 | [prefixesDivBy5](./code/1018_prefixesDivBy5) | ⭐ | Array |
 | 1046 | [lastStoneWeight](./code/1046_lastStoneWeight) | ⭐ | Heap, Greedy |
 | 1047 | [removeDuplicates](./code/1047_removeDuplicates) | ⭐ | Stack |

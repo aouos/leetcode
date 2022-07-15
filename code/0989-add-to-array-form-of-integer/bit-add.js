@@ -4,20 +4,18 @@
  * @return {number[]}
  */
 var addToArrayForm = function (num, k) {
-  let ans = [];
-  const n = num.length;
+  const len = num.length;
 
-  for (let i = n - 1; i >= 0; i--) {
-    const sum = num[i] + (k % 10);
-
-    ans.push(sum % 10);
+  for (let i = len - 1; i >= 0; i--) {
+    const sum = (k % 10) + num[i];
+    num[i] = sum % 10;
     k = Math.floor(k / 10) + Math.floor(sum / 10);
   }
 
-  while (k) {
-    ans.push(k % 10);
+  while (k > 0) {
+    num.unshift(k % 10);
     k = Math.floor(k / 10);
   }
 
-  return ans.reverse();
+  return num;
 };
