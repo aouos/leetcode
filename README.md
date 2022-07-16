@@ -131,7 +131,7 @@
 | 0781 | [numRabbits](./code/0781_numRabbits) | ⭐⭐ | Hash Table |
 | 0796 | [rotateString (旋转字符串)](https://github.com/aouos/leetcode/issues/71) | ⭐ | string |
 | 0814 | [pruneTree](./code/0814_pruneTree) | ⭐ | Tree |
-| 0821 | [shortestToChar](./code/0821_shortestToChar) | ⭐ | Greedy |
+| 0821 | [Shortest Distance to a Character (字符的最短距离)](https://github.com/aouos/leetcode/issues/80) | ⭐ | array, two-pointers, string |
 | 0830 | [largeGroupPositions](./code/0830_largeGroupPositions) | ⭐ | Array |
 | 0832 | [flipAndInvertImage](./code/0832_flipAndInvertImage) | ⭐ | Array |
 | 0837 | [new21Game](./code/0837_new21Game) | ⭐⭐ | DP, Sliding Window |
