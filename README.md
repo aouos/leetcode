@@ -154,7 +154,7 @@
 | 1206 | [Skiplist](./code/1206_Skiplist) | ⭐⭐⭐ | Skiplist |
 | 1232 | [checkStraightLine](./code/1232_checkStraightLine) | ⭐ | Array |
 | 1370 | [sortString](./code/1370_sortString) | ⭐ | Sort |
-| 1381 | [CustomStack](./code/1381_CustomStack) | ⭐⭐ | Stack, Design |
+| 1381 | [Design a Stack With Increment Operation (设计一个支持增量操作的栈)](https://github.com/aouos/leetcode/issues/81) | ⭐⭐ | satck, design, array |
 | 1438 | [longestSubarray](./code/1438_longestSubarray) | ⭐⭐ | Sliding Window, Array |
 | 1456 | [maxVowels](./code/1456_maxVowels) | ⭐⭐ | Sliding Window |
 | 1710 | [maximumUnits](./code/1710_maximumUnits) | ⭐ | Sort, Greedy |
