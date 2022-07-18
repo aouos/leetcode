@@ -97,7 +97,7 @@
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |
 | 0387 | [firstUniqChar](./code/0387_firstUniqChar) | ⭐ | Hash Table, Array |
 | 0389 | [findTheDifference (找不同)](https://github.com/aouos/leetcode/issues/70) | ⭐ | hash-table, bit-manipulation |
-| 0394 | [decodeString](./code/0394_decodeString) | ⭐⭐ | Stack, DFS |
+| 0394 | [Decode String (字符串解码)](https://github.com/aouos/leetcode/issues/82) | ⭐⭐ | stack, string, recursion |
 | 0401 | [readBinaryWatch](./code/0401_readBinaryWatch) | ⭐ | Bit |
 | 0402 | [removeKdigits](./code/0402_removeKdigits) | ⭐⭐ | Stack, Greedy |
 | 0406 | [reconstructQueue](./code/0406_reconstructQueue) | ⭐⭐ | Greedy |
