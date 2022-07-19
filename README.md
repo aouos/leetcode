@@ -80,7 +80,7 @@
 | 0206 | [reverseList (反转链表)](https://github.com/aouos/leetcode/issues/16) | ⭐ | linked-list |
 | 0215 | [findKthLargest (数组中的第K个最大元素)](https://github.com/aouos/leetcode/issues/60) | ⭐⭐ | divide-and-conquer, heap |
 | 0222 | [countNodes](./code/0222_countNodes) | ⭐⭐ | Tree, Binary Search |
-| 0232 | [MyQueue](./code/0232_MyQueue) | ⭐ | Stack |
+| 0232 | [Implement Queue using Stacks (用栈实现队列)](https://github.com/aouos/leetcode/issues/83) | ⭐ | design, stack, queue |
 | 0237 | [deleteNode](./code/0237_deleteNode) | ⭐ | Linked List |
 | 0239 | [maxSlidingWindow](./code/0239_maxSlidingWindow) | ⭐⭐⭐ | Sliding Window |
 | 0268 | [missingNumber](./code/0268_missingNumber) | ⭐ | Bit, Array |
