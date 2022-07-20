@@ -127,7 +127,7 @@
 | 0739 | [dailyTemperatures (每日温度)](https://github.com/aouos/leetcode/issues/57) | ⭐⭐ | hash-table, stack |
 | 0746 | [minCostClimbingStairs](./code/0746_minCostClimbingStairs) | ⭐ | DP |
 | 0766 | [isToeplitzMatrix](./code/0766_isToeplitzMatrix) | ⭐ | Array |
-| 0768 | [maxChunksToSorted](./code/0768_maxChunksToSorted) | ⭐⭐⭐ | Array, Stack |
+| 0768 | [Max Chunks To Make Sorted II (最多能完成排序的块 II)](https://github.com/aouos/leetcode/issues/84) | ⭐⭐⭐ | array, stack, greedy, sort, monotonic-stack |
 | 0781 | [numRabbits](./code/0781_numRabbits) | ⭐⭐ | Hash Table |
 | 0796 | [rotateString (旋转字符串)](https://github.com/aouos/leetcode/issues/71) | ⭐ | string |
 | 0814 | [pruneTree](./code/0814_pruneTree) | ⭐ | Tree |
