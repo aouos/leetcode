@@ -39,7 +39,7 @@
 | 0053 | [maxSubArray (最大子数组和)](https://github.com/aouos/leetcode/issues/32) | ⭐ | array, divide-and-conquer, dynamic-programming |
 | 0055 | [Jump Game (跳跃游戏)](https://leetcode.com/problems/jump-game/) | ⭐⭐ | array greedy dynamic-programming |
 | 0056 | [merge (合并区间)](https://github.com/aouos/leetcode/issues/44) | ⭐⭐ | array, sort |
-| 0061 | [rotateRight](./code/0061_rotateRight) | ⭐⭐ | Two Pointers, Linked List |
+| 0061 | [Rotate List (旋转链表)](https://github.com/aouos/leetcode/issues/85) | ⭐⭐ | linked-list, two-pointers |
 | 0062 | [uniquePaths (不同路径)](https://github.com/aouos/leetcode/issues/29) | ⭐⭐ | array, dynamic-programming|
 | 0064 | [minPathSum (最小路径和)](https://github.com/aouos/leetcode/issues/33) | ⭐⭐ | array, dynamic-programming|
 | 0066 | [plusOne](./code/0066_plusOne) | ⭐ | Array |
