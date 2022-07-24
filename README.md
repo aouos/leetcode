@@ -70,7 +70,7 @@
 | 0146 | [LRUCache](./code/0146_LRUCache) | ⭐⭐ | Design |
 | 0148 | [sortList (排序链表)](https://github.com/aouos/leetcode/issues/50) | ⭐⭐ | linked-list, sort |
 | 0155 | [minStack (最小栈)](https://github.com/aouos/leetcode/issues/42) | ⭐ | stack, design |
-| 0160 | [getIntersectionNode](./code/0160_getIntersectionNode) | ⭐ | Linked List |
+| 0160 | [Intersection of Two Linked Lists (相交链表)](https://github.com/aouos/leetcode/issues/88) | ⭐ | hash-table, linked-list, two-pointers |
 | 0162 | [findPeakElement (寻找峰值)](https://github.com/aouos/leetcode/issues/19) | ⭐⭐ | array, binary-search |
 | 0169 | [majorityElement (多数元素)](https://github.com/aouos/leetcode/issues/68) | ⭐ | array, divide-and-conquer, bit-manipulation |
 | 0189 | [rotate](./code/0189_rotate) | ⭐⭐ | Array |
