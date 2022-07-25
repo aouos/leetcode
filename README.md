@@ -66,7 +66,7 @@
 | 0134 | [canCompleteCircuit](./code/0134_canCompleteCircuit) | ⭐⭐ | Greedy |
 | 0136 | [singleNumber (只出现一次的数字)](https://github.com/aouos/leetcode/issues/30) | ⭐ | hash-table, bit-manipulation |
 | 0141 | [hasCycle (环形链表)](https://github.com/aouos/leetcode/issues/11) | ⭐ | linked-list, two-pointers |
-| 0142 | [detectCycle (环形链表 II)](https://github.com/aouos/leetcode/issues/12) | ⭐⭐ | linked-list, two-pointers |
+| 0142 | [Linked List Cycle II (环形链表 II)](https://github.com/aouos/leetcode/issues/89) | ⭐⭐ | hash-table, linked-list, two-pointers |
 | 0146 | [LRUCache](./code/0146_LRUCache) | ⭐⭐ | Design |
 | 0148 | [sortList (排序链表)](https://github.com/aouos/leetcode/issues/50) | ⭐⭐ | linked-list, sort |
 | 0155 | [minStack (最小栈)](https://github.com/aouos/leetcode/issues/42) | ⭐ | stack, design |
