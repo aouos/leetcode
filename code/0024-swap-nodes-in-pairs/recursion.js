@@ -13,11 +13,9 @@ var swapPairs = function (head) {
   if (!head || !head.next) {
     return head;
   }
-  const newHead = head.next;
-  head.next = swapPairs(newHead.next);
-  newHead.next = head;
-  return newHead;
-};
+  let nHead = head.next;
+  head.next = swapPairs(nHead.next);
+  nHead.next = head;
 
-// 时间复杂度 O(N)
-// 空间复杂度 O(N)
+  return nHead;
+};

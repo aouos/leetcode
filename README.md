@@ -21,7 +21,7 @@
 | 0020 | [isValid (有效的括号)](https://github.com/aouos/leetcode/issues/26) | ⭐ | string, stack |
 | 0021 | [mergeTwoLists (合并两个有序链表)](https://github.com/aouos/leetcode/issues/24) | ⭐ | linked-list |
 | 0022 | [generateParenthesis (括号生成)](https://github.com/aouos/leetcode/issues/28) | ⭐⭐ | string, backtracking |
-| 0024 | [swapPairs](./code/0024_swapPairs) | ⭐⭐ | Linked List, Recursion |
+| 0024 | [Swap Nodes in Pairs (两两交换链表中的节点)](https://github.com/aouos/leetcode/issues/86) | ⭐⭐ | linked-list, recursion |
 | 0026 | [removeDuplicates](./code/0026_removeDuplicates) | ⭐ | Two Pointers, Array |
 | 0027 | [removeElement](./code/0027_removeElement) | ⭐ | Two Pointers, Array |
 | 0028 | [strStr](./code/0028_strStr) | ⭐ | Two Pointers, String |
