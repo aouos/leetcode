@@ -55,7 +55,7 @@
 | 0094 | [inorderTraversal (二叉树的中序遍历)](https://github.com/aouos/leetcode/issues/36) | ⭐ | hash-table, stack, tree |
 | 0101 | [isSymmetric (对称二叉树)](https://github.com/aouos/leetcode/issues/39) | ⭐ | tree, dfs, bfs |
 | 0102 | [levelOrder (二叉树的层序遍历)](https://github.com/aouos/leetcode/issues/41) | ⭐⭐ | tree, bfs |
-| 0104 | [maxDepth (二叉树的最大深度)](https://github.com/aouos/leetcode/issues/45) | ⭐ | tree, depth-first-search |
+| 0104 | [Maximum Depth of Binary Tree (二叉树的最大深度)](https://github.com/aouos/leetcode/issues/91) | ⭐ | binary-tree, breadth-first-search, depth-first-search, tree |
 | 0100 | [isSameTree](./code/0100_isSameTree) | ⭐ | DFS, Tree |
 | 0109 | [sortedListToBST](./code/0109_sortedListToBST) | ⭐⭐ | DFS, Recursion |
 | 0114 | [flatten (二叉树展开为链表)](https://github.com/aouos/leetcode/issues/55) | ⭐⭐ | tree, depth-first-search |
