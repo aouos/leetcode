@@ -11,7 +11,6 @@
  * @param {TreeNode} q
  * @return {boolean}
  */
-
 var isSameTree = function (p, q) {
   if (!p && !q) {
     return true;
@@ -21,12 +20,9 @@ var isSameTree = function (p, q) {
     return false;
   }
 
-  if (p.val != q.val) {
+  if (p.val !== q.val) {
     return false;
   }
 
   return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
 };
-
-// 时间复杂度O(N)
-// 空间复杂度O(N)
