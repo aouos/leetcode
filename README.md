@@ -87,7 +87,7 @@
 | 0268 | [missingNumber](./code/0268_missingNumber) | ⭐ | Bit, Array |
 | 0278 | [firstBadVersion (第一个错误的版本)]() | ⭐ | binary-search |
 | 0290 | [wordPattern](./code/0290_wordPattern) | ⭐ | Hash Table |
-| 0297 | [serialize_seserialize](./code/0297_serialize_seserialize) | ⭐⭐⭐ | Tree |
+| 0297 | [Serialize and Deserialize Binary Tree (二叉树的序列化与反序列化)](https://github.com/aouos/leetcode/issues/93) | ⭐⭐⭐ | breadth-first-search, depth-first-search, design, string, tree |
 | 0283 | [moveZeroes](./code/0283_moveZeroes) | ⭐ | Array, Two Pointers |
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |
 | 0338 | [countBits (比特位计数)](https://github.com/aouos/leetcode/issues/51) | ⭐ | dynamic-programming, bit-manipulation |
