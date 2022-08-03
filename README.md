@@ -92,7 +92,7 @@
 | 0328 | [oddEvenList](./code/0328_oddEvenList) | ⭐⭐ | Linked List |
 | 0338 | [countBits (比特位计数)](https://github.com/aouos/leetcode/issues/51) | ⭐ | dynamic-programming, bit-manipulation |
 | 0344 | [reverseString (反转字符串)](https://github.com/aouos/leetcode/issues/61) | ⭐ | two-pointers, string |
-| 0347 | [topKFrequent (前 K 个高频元素)](https://github.com/aouos/leetcode/issues/47) | ⭐⭐ | hash-table, heap |
+| 0347 | [Top K Frequent Elements (前 K 个高频元素)](https://github.com/aouos/leetcode/issues/97) | ⭐⭐ | hash-table, heap, sort |
 | 0372 | [getSum](./code/0372_getSum) | ⭐ | Bit |
 | 0374 | [guessNumber (猜数字大小)](https://github.com/aouos/leetcode/issues/69) | ⭐ | binary-search |
 | 0376 | [wiggleMaxLength](./code/0376_wiggleMaxLength) | ⭐⭐ | Greedy, DP |
